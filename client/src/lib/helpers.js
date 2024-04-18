@@ -265,15 +265,7 @@ export const getRandomEntries = (entries, amountOfRandomEntries) => {
 }
 
 export const getTexts = () => {
-    var userLang = navigator.language || navigator.userLanguage;
-    switch (userLang) {
-        case "de": return germanTexts
-        case "ru": return russianTexts
-        case "es": return spanishTexts
-        case "it": return italianTexts
-        case "fr": return frenchTexts
-        default: return englishTexts
-    }
+    return germanTexts
 }
 
 const germanTexts = {
