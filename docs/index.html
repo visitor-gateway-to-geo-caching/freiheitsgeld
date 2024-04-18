@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/png" sizes="32x32" href="./libertas-favicon/favicon-32x32.png" />
+		<link rel="icon" type="image/png" sizes="16x16" href="./libertas-favicon/favicon-16x16.png" />
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+		integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+		crossorigin=""/>
+		<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+		integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+		crossorigin=""></script>
+   
+		<!-- <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png" />
+		<link rel="icon" type="image/png" sizes="16x16" href="./images/favicon-16x16.png" /> -->
+		
+		<link href="./app/immutable/assets/0.d88ffb05.css" rel="stylesheet">
+		<link href="./app/immutable/assets/2.dc53292d.css" rel="stylesheet">
+		<link href="./app/immutable/assets/FreedomExchanges.e40fb6b8.css" rel="stylesheet">
+		<link href="./app/immutable/assets/InvestmentInfo.32202d47.css" rel="stylesheet">
+		<link rel="modulepreload" href="./app/immutable/entry/start.07d73d50.js">
+		<link rel="modulepreload" href="./app/immutable/chunks/scheduler.42392044.js">
+		<link rel="modulepreload" href="./app/immutable/chunks/singletons.1b858ca0.js">
+		<link rel="modulepreload" href="./app/immutable/entry/app.838d5a8d.js">
+		<link rel="modulepreload" href="./app/immutable/chunks/index.5f6fbe0c.js">
+		<link rel="modulepreload" href="./app/immutable/nodes/0.649a6eac.js">
+		<link rel="modulepreload" href="./app/immutable/chunks/each.e59479a4.js">
+		<link rel="modulepreload" href="./app/immutable/chunks/stores.102e085d.js">
+		<link rel="modulepreload" href="./app/immutable/nodes/2.5456e7aa.js">
+		<link rel="modulepreload" href="./app/immutable/chunks/helpers.9fa9be29.js">
+		<link rel="modulepreload" href="./app/immutable/chunks/FreedomTreasuriesOffChain.4bf83f27.js">
+		<link rel="modulepreload" href="./app/immutable/chunks/hash.480ce711.js">
+		<link rel="modulepreload" href="./app/immutable/chunks/FeedbackToVisitor.226d735f.js">
+		<link rel="modulepreload" href="./app/immutable/chunks/FreedomWallets.fc8e987b.js">
+		<link rel="modulepreload" href="./app/immutable/chunks/InvestmentInfo.03c9d82d.js">
+		<link rel="modulepreload" href="./app/immutable/chunks/Philosophy.5f105424.js">
+	</head>
+
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">  <header class="svelte-s0hk1x"><div class="container"><nav class="svelte-s0hk1x"><ul class="svelte-s0hk1x"><li class="svelte-bs8x38"><a href="./freedomWallets" class="nav-item svelte-bs8x38">Wallets </a> </li><li class="svelte-bs8x38"><a href="./freedomTreasuries" class="nav-item svelte-bs8x38">Schätze </a> </li> <li class="svelte-s0hk1x" data-svelte-h="svelte-d6vcvk"><a href="./" class="logo svelte-s0hk1x"><img alt="Freedom Cash Logo" src="./libertas-favicon/icon.ico" class="svelte-s0hk1x"></a></li> <li class="svelte-bs8x38"><a href="./freedomInvestments" class="nav-item svelte-bs8x38">Einsatz </a> </li><li class="svelte-bs8x38"><a href="./philosophy" class="nav-item svelte-bs8x38">Philosophie </a> </li></ul></nav></div> </header> <main class="container svelte-40n5a"><h2 class="text-center">undefined</h2> <main> </main></main> <footer class="svelte-pir2t" data-svelte-h="svelte-1tj2kzj"><div class="container svelte-pir2t"><span><a class="underline" href="https://github.com/moniquebaumann/visitor-gateway-into-freedom/" target="_blank" rel="noopener">GitHub Code</a></span> <span>•</span> <span>Freedom
+			</span> <span>•</span> <span><a href="https://polygonscan.com/address/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93" target="_blank">Smart Contract</a></span></div> </footer> 
+			
+			<script>
+				{
+					__sveltekit_r5847m = {
+						base: new URL(".", location).pathname.slice(0, -1),
+						env: {}
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null];
+
+					Promise.all([
+						import("./app/immutable/entry/start.07d73d50.js"),
+						import("./app/immutable/entry/app.838d5a8d.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 2],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+
+</html>
