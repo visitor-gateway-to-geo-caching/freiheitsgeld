@@ -132,7 +132,7 @@
 {#if newHint.lat != undefined}
 	<p><br /></p>
 	{#if offchain}
-		Add the following entry here. <p><br /></p>
+		Der folgende Eintrag wird hinzugefügt: <p><br /></p>
 		{JSON.stringify(newHint)}
 	{:else}
 		The following GeoCache will be added

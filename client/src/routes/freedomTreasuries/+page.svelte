@@ -3,13 +3,13 @@
 	import FreedomTreasuries from '$lib/components/FreedomTreasuries.svelte';
 	import FreedomTreasuriesOffChain from '$lib/components/FreedomTreasuriesOffChain.svelte';
 	import { onMount } from 'svelte';
-	import { getTexts } from '$lib/helpers';
-	let texts = {};
+	import { germanTexts } from '$lib/helpers';
+	let texts = germanTexts;
 	let ready = false;
 	let advanced = false;
 	let visitorHasBrowserWallet;
+
 	onMount(async () => {
-		texts = getTexts();
 		if (typeof window.ethereum === 'undefined') {
 			visitorHasBrowserWallet = false;
 		} else {
@@ -17,6 +17,7 @@
 		}
 		ready = true;
 	});
+	
 </script>
 <Seo title="Freedom Treasuries" />
 <div class="text-center">

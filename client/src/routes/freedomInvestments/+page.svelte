@@ -1,15 +1,15 @@
 <script>
 	import InvestmentInfo from '$components/InvestmentInfo.svelte';
+	import { germanTexts } from '$lib/helpers';
 	import { onMount } from 'svelte';
-	import { getTexts } from '$lib/helpers';
 
-	let texts = {};
+
+	let texts = germanTexts;
 
 	let visitorHasBrowserWallet = false;
 	let visitorWithMobile = false;
 
 	onMount(async () => {
-		texts = getTexts();
 		if (typeof window.ethereum === 'undefined') {
 			visitorHasBrowserWallet = false;
 		} else {

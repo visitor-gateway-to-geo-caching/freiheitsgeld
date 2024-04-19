@@ -13,6 +13,15 @@
 {#if freedomWords !== ''}
 	{@html texts.philosophy17}
 
+	
+	<h4>{texts.problems}</h4>
+	{@html texts.philosophy7}
+	<h4>{texts.solutions}</h4>
+	{@html texts.philosophy21}
+	<p><br></p>
+
+	{@html freedomWords}
+
 	<p><br /><br /><br /></p>
 
 	<div class="iframediv">
@@ -25,18 +34,11 @@
 			allowfullscreen
 			title="Getting Ready"
 		/>
-	</div>
-
-	<p><br /></p>
-	<h4>{texts.problems}</h4>
-	{@html texts.philosophy7}
-	<h4>{texts.solutions}</h4>
-	{@html texts.philosophy21}
-	<p><br></p>
-	{@html freedomWords}
+	</div>	
 	<h4>{texts.philosophy14}</h4>
 	{@html texts.philosophy15}
 
+	
 	<p><br /><br /></p>
 	<div class="iframediv">
 		<iframe

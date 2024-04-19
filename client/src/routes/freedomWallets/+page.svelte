@@ -2,11 +2,8 @@
 	import Seo from '$lib/components/Seo.svelte';
 	import FreedomWallets from '$lib/components/FreedomWallets.svelte';
 	import { onMount } from 'svelte';
-	import { getTexts } from '$lib/helpers';
-	let texts = {}
-	onMount(async () => {
-		texts = getTexts()
-	})	
+	import { germanTexts } from '$lib/helpers';
+	let texts = germanTexts
 </script>
 
 <Seo title="Freedom Wallets" />

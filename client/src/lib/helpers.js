@@ -264,11 +264,8 @@ export const getRandomEntries = (entries, amountOfRandomEntries) => {
     return randomEntries;
 }
 
-export const getTexts = () => {
-    return germanTexts
-}
 
-const germanTexts = {
+export const germanTexts = {
     title: "Geld der Freiheit",
     whatWeDo: 'Wir beenden staatlich organisierte Kriminalität. <p><br></p>Wir trennen Geld von Staat so wie Religion von Staat getrennt wurde. <p><br></p><a href="https://polygonscan.com/token/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93#balances" target="_blank">Wir</a> finanzieren <a href="https://rumble.com/c/c-5722872/videos" target="_blank">Freiheit</a> mit <a href="https://polygonscan.com/token/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93" target="_blank">Freedom Cash</a>.',
     contactFriendsOfSatoshi: 'Sobald Du ein <a href="https://freedomcash.org/freedomWallets" target="_blank">Freedom Wallet</a> gefunden oder generiert hast, kannst Du dessen <b>öffentliche</b> Addresse und ein entsprechendes Video an <a href="https://t.me/FriendsOfSatoshi_bot" target="_blank">FriendsOfSatoshi</a> senden.',
@@ -326,7 +323,7 @@ const germanTexts = {
     studySmartContract: 'Bitte studiere den <a href="https://polygonscan.com/address/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93" target="_blank">Smart Contract</a> und experimentiere zunächst mit kleinen Beträgen.',
     useBIB: 'Da es sich bei dieser Seite um eine verteilte Web App (dApp) handelt, besuche diese Seite bitte mit dem in der <a href="https://metamask.io" target="_blank">Metamask App</a> eingebauten Browser.',
     useBW: 'Bitte installiere ein vertrauenswürdiges Browserwallet wie beispielsweise <a href="https://metamask.io" target="_blank">metamask.io</a> oder nutze das im <a href="https://brave.com" target="_blank">brave.com</a> Browser eingebaute wallet und besuche uns bald wieder.',
-    buyPr: 'Um <a href="https://polygonscan.com/address/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93" target="_blank">Freedom Cash</a> zu kaufen, brauchst Du Matic auf der Polygon Blockchain.',
+    buyPr: 'Um <a href="https://polygonscan.com/address/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93" target="_blank">Freedom Cash</a> zu kaufen, brauchst Du Matic auf der Polygon POS Blockchain.',
     buy: 'Kaufe Freedom Cash',
     sell: 'Verkaufe Freedom Cash',
     transfer: `Du kannst Matic vom Ethereum Mainnet auf die Polygon Blockchain transferieren per <a href="https://portal.polygon.technology/bridge" target="_blank">portal.polygon.technology/bridge</a>.`,

@@ -9,20 +9,16 @@
 	import FreedomTreasuriesOffChain from './FreedomTreasuriesOffChain.svelte';
 	import FreedomExchanges from './FreedomExchanges.svelte';
 	import Philosophy from './Philosophy.svelte';
-	import { getRandomEntries, getTexts } from '$lib/helpers.js';
 
 	export let texts;
 	let visitorHasBrowserWallet = false;
-	let showDetails;
 	let invest;
 	let showPhilosophy;
-	let showFreedomTribunal;
 	let showWallets;
 	let showTreasuries;
-	let showExchanges;
-	let showFreedomEnterprise
 	let visitorWithMobile = false;
 	let advanced = false;
+	
 	onMount(async () => {
 		if (typeof window.ethereum === 'undefined') {
 			visitorHasBrowserWallet = false;
