@@ -7,7 +7,7 @@
 		<span>
 			<a
 				class="underline"
-				href="https://github.com/moniquebaumann/visitor-gateway-into-freedom/"
+				href="https://github.com/FreiheitsGeld/freiheitsgeld"
 				target="_blank"
 				rel="noopener">GitHub Code</a
 			>

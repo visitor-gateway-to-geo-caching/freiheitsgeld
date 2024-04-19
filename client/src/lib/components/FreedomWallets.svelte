@@ -22,10 +22,10 @@
 {@html texts.wallets9}
 <p><br /></p>
 {texts.wallets10}
-<a href="https://github.com/moniquebaumann/paperwallet-generator" target="_blank">{texts.wallets11}</a>.
+<a href="https://github.com/FreiheitsGeld/freiheitsgeld-paperwallet-generator" target="_blank">{texts.wallets11}</a>.
 <p><br /></p>
 {@html texts.contactFriendsOfSatoshi}
 <p><br /></p>
-<embed src="https://moniquebaumann.github.io/paperwallet-generator/" width="100%" height="810" />
+<embed src="https://freiheitsgeld.github.io/freiheitsgeld-paperwallet-generator" width="100%" height="810" />
 
 <p><br /></p>

@@ -5,7 +5,7 @@
 	export let description =
 		'FreedomCash Helps Those Who Help Each Other Into Freedom, Fairness, Love and Peace.';
 	export let image =
-		'https://github.com/moniquebaumann/visitor-gateway-into-freedom/assets/160405077/d8bf69ab-b058-454a-9d99-5fd49aae75c6';
+		'https://github.com/FreiheitsGeld/freiheitsgeld/assets/160405077/d8bf69ab-b058-454a-9d99-5fd49aae75c6';
 	export let url = `https://${$page.url.host}${$page.url.pathname}`;
 </script>
 
