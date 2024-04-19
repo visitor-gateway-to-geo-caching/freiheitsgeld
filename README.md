@@ -1,5 +1,7 @@
 # Freiheitsgeld Besucheroberfläche
-[Wir](https://github.com/moniquebaumann/friends-of-satoshi) finanzieren [Freiheit](https://rumble.com/c/c-5722872/videos).   
+[Freiheitsgeld.de](https://freiheitsgeld.de)  
+
+[Wir](https://github.com/moniquebaumann/friends-of-satoshi) finanzieren [Freiheit](https://rumble.com/c/c-5722872/videos), Friede und Gerechtigkeit.   
 
 ## Details
 Wir kombinieren Bildungsangebote mit [Geo-Caching](https://geo-caching.org).      
