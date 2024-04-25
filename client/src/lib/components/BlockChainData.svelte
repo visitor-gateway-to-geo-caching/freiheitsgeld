@@ -20,17 +20,17 @@
 		const visitorBalance = await contract.balanceOf(publicWalletAddressOfVisitor);
 		amountOfCoinsInVisitorsWallet = ethers.formatEther(visitorBalance);
 
-		let underway = await contract.getUnderway();
-		let ethBalanceSC = await provider.getBalance(FC);
-		const rawBuyPrice = await contract.getBuyPrice(ethBalanceSC, underway);
+		// let underway = await contract.getUnderway();
+		// let ethBalanceSC = await provider.getBalance(FC);
+		// const rawBuyPrice = await contract.getBuyPrice(ethBalanceSC, underway);
 
-		buyPrice = ethers.formatUnits(rawBuyPrice.toString(), 'ether');
-		try {
-			const rawSellPrice = await contract.getSellPrice(ethBalanceSC, underway);
-			sellPrice = ethers.formatUnits(rawSellPrice.toString(), 'ether');
-		} catch (error) {
-			console.log(error.message);
-		}
+		// buyPrice = ethers.formatUnits(rawBuyPrice.toString(), 'ether');
+		// try {
+		// 	const rawSellPrice = await contract.getSellPrice(ethBalanceSC, underway);
+		// 	sellPrice = ethers.formatUnits(rawSellPrice.toString(), 'ether');
+		// } catch (error) {
+		// 	console.log(error.message);
+		// }
 
 		amountOfETHInSmartContract = ethers.formatUnits(
 			(await provider.getBalance(FC)).toString(),
@@ -60,7 +60,7 @@
 					<a href="{baseURLScan}token/{FC}#code#L891" target="_blank">Freedom Cash</a></td
 				>
 			</tr>
-			<tr>
+			<!-- <tr>
 				<td>Buy Price</td>
 				<td>{buyPrice} Matic</td>
 			</tr>
@@ -71,7 +71,7 @@
 			<tr>
 				<td>Market Capitalization (according to contract)</td>
 				<td>{amountOfETHInSmartContract} Matic</td>
-			</tr>
+			</tr> -->
 			<tr>
 				<td>Holders According to Polygon</td>
 				<td><a href="{baseURLScan}token/{FC}#balances" target="_blank">Holders</a></td>
