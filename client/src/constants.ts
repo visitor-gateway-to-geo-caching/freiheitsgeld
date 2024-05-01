@@ -1,4 +1,4 @@
-export const FC = "0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93"
+export const FC = "0xb841A4f979F9510760ecf60512e038656E68f459"
 export const FP = "0xb9a3c69875F39189004F9Bb41506638b7be5a830"
 export const FT = "0xa96839e5eaA38E0927571f3A50Fc71a4F1df093d"
 export const targetChainId = '0x89'; // == 137 in decimal = Polygon

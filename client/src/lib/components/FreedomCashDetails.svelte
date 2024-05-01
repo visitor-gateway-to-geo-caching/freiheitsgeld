@@ -4,8 +4,8 @@
 
 <h4 class="text-center">{texts.totalSupply}</h4>
 360.000.000
-<a href="https://polygonscan.com/address/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93" target="_blank"
-	>Freedom Cash</a
+<a href="https://polygonscan.com/address/0xb841A4f979F9510760ecf60512e038656E68f459" target="_blank"
+	>Geo Cash</a
 >
 <h4 class="text-center">{texts.utility}</h4>
 {@html texts.utilityDescription}
@@ -14,11 +14,10 @@
 <p><br /></p>
 {@html texts.educateYourself}
 
-<p><br></p>
+<p><br /></p>
 <div class="center">
 	<img class="explanatoryImage" src="/smart-contract.png" alt="" />
 </div>
-
 
 <style>
 </style>

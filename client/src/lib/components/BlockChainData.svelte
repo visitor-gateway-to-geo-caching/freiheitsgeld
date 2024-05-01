@@ -57,7 +57,7 @@
 				<td>Wallet Balance</td>
 				<td
 					>{amountOfCoinsInVisitorsWallet}
-					<a href="{baseURLScan}token/{FC}#code#L891" target="_blank">Freedom Cash</a></td
+					<a href="{baseURLScan}token/{FC}#code#L891" target="_blank">Geo Cash</a></td
 				>
 			</tr>
 			<!-- <tr>

@@ -1,6 +1,6 @@
 <script type="ts">
 	import { page } from '$app/stores';
-	const brand = 'Freedom Cash';
+	const brand = 'Geo Cash';
 	export let title = brand;
 	export let description =
 		'FreedomCash Helps Those Who Help Each Other Into Freedom, Fairness, Love and Peace.';

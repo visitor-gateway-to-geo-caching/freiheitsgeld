@@ -4,11 +4,11 @@
 	import { page } from '$app/stores';
 	const linksLeft = [
 		['/freedomWallets', 'Wallets'],
-		['/freedomTreasuries', 'Schätze'],
+		['/freedomTreasuries', 'Schätze']
 	];
 	const linksRight = [
 		['/freedomInvestments', 'Einsatz'],
-		['/philosophy', 'Philosophie'],
+		['/philosophy', 'Philosophie']
 	];
 </script>
 
@@ -26,7 +26,7 @@
 				{/each}
 				<li>
 					<a href="/" class="logo">
-						<img alt="Freedom Cash Logo" src="/libertas-favicon/icon.ico" />
+						<img alt="Geo Cash Logo" src="/libertas-favicon/icon.ico" />
 					</a>
 				</li>
 				{#each linksRight as [path, name]}

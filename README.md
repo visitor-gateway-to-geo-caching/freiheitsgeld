@@ -6,7 +6,7 @@
 ## Details
 Wir kombinieren Bildungsangebote mit [Geo-Caching](https://geo-caching.org).      
 
-Details zum [Freiheitsgeld](https://polygonscan.com/token/0x1dc4e031e7737455318c77f7515f8ea8be280a93#code) findet Ihr auch in [dieser Codesammlung](https://github.com/moniquebaumann/freedom-cash).  
+Details zum [Freiheitsgeld](https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459#code) findet Ihr auch in [dieser Codesammlung](https://github.com/moniquebaumann/freedom-cash).  
 
 ## Über uns 
 Wir sind [Freunde von Satoshi](https://github.com/moniquebaumann/friends-of-satoshi). 
@@ -16,4 +16,4 @@ Wir sind [Freunde von Satoshi](https://github.com/moniquebaumann/friends-of-sato
 ![chancellor-on-brink-of-second-bailout-for-banks-starter](https://github.com/moniquebaumann/freedom-cash-bot/assets/160405077/1ed00195-9738-45bf-a807-4dff034947ff)
 
   
-Wir sind [frei](https://polygonscan.com/address/0x1dc4e031e7737455318c77f7515f8ea8be280a93#tokentxns).   
+Wir sind [frei](https://polygonscan.com/address/0xb841A4f979F9510760ecf60512e038656E68f459#tokentxns).   

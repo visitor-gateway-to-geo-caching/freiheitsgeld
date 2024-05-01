@@ -22,7 +22,7 @@
 		<span>•</span>
 		<span
 			><a
-				href="https://polygonscan.com/address/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93"
+				href="https://polygonscan.com/address/0xb841A4f979F9510760ecf60512e038656E68f459"
 				target="_blank">Smart Contract</a
 			></span
 		>

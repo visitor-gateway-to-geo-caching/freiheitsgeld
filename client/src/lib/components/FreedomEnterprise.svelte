@@ -1,6 +1,7 @@
 <script>
-	export let texts
+	export let texts;
 </script>
+
 <p><br /></p>
 {@html texts.releaseAnnouncement}
 
@@ -435,7 +436,7 @@
 						<td>Wallet Balance</td>
 						<td
 							>{walletBalance}
-							<a href="{baseURLScan}token/{FC}/holders" target="_blank">Freedom Cash</a></td
+							<a href="{baseURLScan}token/{FC}/holders" target="_blank">Geo Cash</a></td
 						>
 					</tr>
 					<tr>

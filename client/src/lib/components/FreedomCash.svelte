@@ -18,7 +18,7 @@
 	let showTreasuries;
 	let visitorWithMobile = false;
 	let advanced = false;
-	
+
 	onMount(async () => {
 		if (typeof window.ethereum === 'undefined') {
 			visitorHasBrowserWallet = false;
@@ -39,49 +39,75 @@
 			{@html texts.whatWeDo}
 
 			<h4>Das Neue Bitcoin</h4>
-			Bevor Du das <a href="https://polygonscan.com/token/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93" target="_blank">Geld der Freiheit</a> verstehst, solltest Du zuerst den Vorläufer (<a href="https://www.youtube.com/watch?v=XcsvjUW9D18" target="_blank">Bitcoin</a>) verstehen. 
-			<p><br></p>
-			Dabei kann <a href="https://www.youtube.com/watch?v=XcsvjUW9D18" target="_blank">diese</a> einfache, schnelle und gute Einführung helfen. 
-			<p><br></p>
-			<a href="https://polygonscan.com/token/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93" target="_blank">Freedom Cash</a> ist das neue Bitcoin.
+			Bevor Du das 
+			<a
+				href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
+				target="_blank">Geld der Freiheit</a
+			>
+			verstehst, solltest Du zuerst den Vorläufer (<a
+				href="https://www.youtube.com/watch?v=XcsvjUW9D18"
+				target="_blank">Bitcoin</a
+			>) verstehen.
+			<p><br /></p>
+			Dabei kann 
+			<a href="https://www.youtube.com/watch?v=XcsvjUW9D18" target="_blank">diese</a>
+			einfache, schnelle und gute Einführung helfen.
+			<p><br /></p>
+			<a
+				href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
+				target="_blank">Geo Cash</a
+			>
+			ist das neue Bitcoin.
 			<h4>Initiale Verteilung</h4>
-			Die initiale Verteilung von <a href="https://polygonscan.com/token/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93" target="_blank">Freedom Cash</a> erfolgt per <a href="https://de.wikipedia.org/wiki/Geocaching" target="_blank">Geo Caching</a>.
-			<p><br></p>
-			
-			<a href="https://github.com/moniquebaumann/friends-of-satoshi" target="_blank">Wir</a> fördern zuerst eine breite initiale Verteilung. <p><br></p> Danach hinterlegen wir einen passenden Gegenwert, um <a href="https://www.youtube.com/watch?v=fW8amMCVAJQ" target="_blank">die Party</a> so richtig zu starten.
-			<p><br></p>
-			
+			Die initiale Verteilung von 
+			<a
+				href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
+				target="_blank">Geo Cash</a
+			>
+			erfolgt per
+			<a href="https://de.wikipedia.org/wiki/Geocaching" target="_blank">Geo Caching</a>.
+			<p><br /></p>
+
+			<a href="https://github.com/moniquebaumann/friends-of-satoshi" target="_blank">Wir</a> fördern
+			zuerst eine breite initiale Verteilung.
+			<p><br /></p>
+			Danach hinterlegen wir einen passenden Gegenwert, um 
+			<a
+				href="https://www.youtube.com/watch?v=fW8amMCVAJQ"
+				target="_blank">die Party</a
+			>
+			so richtig zu starten.
+			<p><br /></p>
+
 			<p><br /></p>
 			<Videos menu={'treasuries'} displayAmount={9}></Videos>
-			<p><br><br></p>
-			
+			<p><br /><br /></p>
+
 			<button class="button" on:click={() => (showWallets = !showWallets)}>
 				{texts.generatePaperWallet}
 			</button>
 			{#if showWallets}
-			<FreedomWallets {texts}></FreedomWallets>
+				<FreedomWallets {texts}></FreedomWallets>
 			{/if}
 		</div>
 
 		<div class="content">
 			<h4 class="text-center">{texts.totalSupply}</h4>
 			360.000.000
-			<a href="https://polygonscan.com/address/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93" target="_blank"
-				>Freedom Cash</a
+			<a
+				href="https://polygonscan.com/address/0xb841A4f979F9510760ecf60512e038656E68f459"
+				target="_blank">Geo Cash</a
 			>
-			<h4 class="text-center">{texts.utility}</h4>
-			Wir finanzieren Freiheit, Gerechtigkeit und Friede.
-			<h4 class="text-center">{texts.liquidity}</h4>
-			{@html texts.liquidityDescription}
-			<p><br /></p>
-			{@html texts.educateYourself}
-			
 			<p><br></p>
+			Weitere Details findest Du zum Beispiel bei <a href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c" target="_blank">geckoterminal.com</a> und im 
+			<a href="https://github.com/geo-logs/freiheit" target="_blank">Code Repository</a>. 
+
+			<p><br /></p>
 			<!-- <div class="center">
 				<img class="explanatoryImage" src="/smart-contract.png" alt="" />
 			</div>
 			<p><br /><br /></p> -->
-			<p><br></p>
+			<p><br /></p>
 			<button class="button" on:click={() => (showTreasuries = !showTreasuries)}>
 				{texts.playWithTreasuries}
 			</button>
@@ -97,7 +123,7 @@
 			{/if}
 
 			<p><br /><br /></p>
-			
+
 			<button class="button" on:click={() => (invest = !invest)}>
 				{texts.buyAndSellFC}
 			</button>
@@ -105,7 +131,6 @@
 				<p><br /></p>
 				<InvestmentInfo {texts} {visitorWithMobile}></InvestmentInfo>
 			{/if}
-
 
 			<!-- <p><br /><br /></p>
 			<button class="button" on:click={() => (showExchanges = !showExchanges)}>
