@@ -4,7 +4,7 @@
 	import { ethers } from 'ethers';
 	import FeedbackToVisitor from './FeedbackToVisitor.svelte';
 	import { replaceContentToShowClickableLinks } from '$lib/helpers.js';
-	import { FP } from '../../constants.ts';
+
 	export let exchanges = [];
 	export let contract;
 	export let texts;

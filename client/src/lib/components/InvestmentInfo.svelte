@@ -1,7 +1,4 @@
 <script lang="ts">
-	import BlockChainData from './BlockChainData.svelte';
-	import SellFreedomCash from '$components/SellFreedomCash.svelte';
-	import InvestIntoFreedomCash from '$components/InvestIntoFreedomCash.svelte';
 	import { onMount } from 'svelte';
 	import { connectToBlockchain } from '$lib/helpers';
 	export let texts;
@@ -38,18 +35,14 @@
 {/if}
 {#if visitorIsConnectedViaBrowserWallet}
 	<div class="content">
+		You can buy and sell Geo Cash via <a href="https://app.uniswap.org/swap" target="_blank"
+			>uniswap</a
+		>.
 		<p><br /></p>
-		<InvestIntoFreedomCash {contract} {publicWalletAddressOfVisitor} {provider} {texts}
-		></InvestIntoFreedomCash>
-		<p><br /></p>
-		<SellFreedomCash {contract} {texts} {publicWalletAddressOfVisitor} {provider}></SellFreedomCash>
-		<p><br /></p>
-		<!-- <div class="center">
-			<img class="explanatoryImage" src="/smart-contract.png" alt="" />
-		</div>
-		<p><br /><br /></p> -->
-		<BlockChainData {publicWalletAddressOfVisitor} {contract} {provider} {texts}></BlockChainData>
+		Please do not invest big amounts so that Geo Cash emerges as a decentralized freedom currency.
 	</div>
+	<embed src="https://geld-wandern.de" width="100%" height="810" />
+	<p><br /></p>
 {/if}
 
 <style>

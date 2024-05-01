@@ -1,13 +1,10 @@
 <script>
 	import { onMount } from 'svelte';
-	import FreedomCashDetails from './FreedomCashDetails.svelte';
 	import Videos from './Videos.svelte';
 	import FreedomWallets from './FreedomWallets.svelte';
 	import InvestmentInfo from './InvestmentInfo.svelte';
-	import FreedomTribunal from './FreedomTribunal.svelte';
 	import FreedomTreasuries from './FreedomTreasuries.svelte';
 	import FreedomTreasuriesOffChain from './FreedomTreasuriesOffChain.svelte';
-	import FreedomExchanges from './FreedomExchanges.svelte';
 	import Philosophy from './Philosophy.svelte';
 
 	export let texts;
