@@ -77,7 +77,7 @@
 			<p><br /></p>
 
 			<p><br /></p>
-			<Videos menu={'treasuries'} displayAmount={9}></Videos>
+			<Videos {texts} displayAmount={3}></Videos>
 			<p><br /><br /></p>
 
 			<button class="button" on:click={() => (showWallets = !showWallets)}>

@@ -3,8 +3,8 @@
 	import { offChainTreasuries } from '../../off-chain-data.ts';
 	import { getRandomEntries } from '$lib/helpers';
 
-	export let menu;
-	export let displayAmount
+	export let displayAmount;
+	export let texts;
 
 	let displayedFirstTreasuries = [];
 	let displayedFirstExchanges = [];
@@ -15,27 +15,20 @@
 		// displayedFirstExchanges = getRandomEntries(firstFreedomExchangesEmbedLinks, displayAmount); will be released later
 		ready = true;
 	});
-
 </script>
 
 {#if ready}
-	{#if menu === 'treasuries'}
-		<div class="grid-container">
-			{#each displayedFirstTreasuries as entry}
-				<div class="item1">
-					<object width="100%" title="some of the first ..." data={entry.txt}> </object>
-				</div>
-			{/each}
-		</div>
-	{:else if menu === 'exchanges'}
-		<div class="grid-container">
-			{#each displayedFirstExchanges as entry}
-				<div class="item1">
-					<object width="100%" title="some of the first ..." data={entry}> </object>
-				</div>
-			{/each}
-		</div>
-	{/if}
+<a href="https://rumble.com/c/c-5722872" target="_blank">
+	<button>{texts.watchMoreVideos}</button>
+</a>
+<p><br /></p>
+	<div class="grid-container">
+		{#each displayedFirstTreasuries as entry}
+			<div class="item1">
+				<object width="100%" title="some of the first ..." data={entry.txt}> </object>
+			</div>
+		{/each}
+	</div>
 {/if}
 
 <style>
