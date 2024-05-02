@@ -7,7 +7,7 @@
 		['/freedomTreasuries', 'Schätze']
 	];
 	const linksRight = [
-		['/freedomInvestments', 'Einsatz'],
+		['/logBook', 'Log Book'],
 		['/philosophy', 'Philosophie']
 	];
 </script>

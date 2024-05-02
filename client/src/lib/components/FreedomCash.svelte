@@ -2,7 +2,7 @@
 	import { onMount } from 'svelte';
 	import Videos from './Videos.svelte';
 	import FreedomWallets from './FreedomWallets.svelte';
-	import InvestmentInfo from './InvestmentInfo.svelte';
+	import InvestmentInfo from './LogBook.svelte';
 	import FreedomTreasuries from './FreedomTreasuries.svelte';
 	import FreedomTreasuriesOffChain from './FreedomTreasuriesOffChain.svelte';
 	import Philosophy from './Philosophy.svelte';
