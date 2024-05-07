@@ -36,47 +36,42 @@
 			{@html texts.whatWeDo}
 
 			<h4>Das Neue Bitcoin</h4>
-			Bevor Du das 
-			<a
-				href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
-				target="_blank">Geld der Freiheit</a
-			>
-			verstehst, solltest Du zuerst den Vorläufer (<a
+			Bevor Du unsere Währungen verstehst, solltest Du zuerst den Vorläufer (<a
 				href="https://www.youtube.com/watch?v=XcsvjUW9D18"
 				target="_blank">Bitcoin</a
 			>) verstehen.
 			<p><br /></p>
-			Dabei kann 
+			Dabei kann
 			<a href="https://www.youtube.com/watch?v=XcsvjUW9D18" target="_blank">diese</a>
 			einfache, schnelle und gute Einführung helfen.
 			<p><br /></p>
 			<a
-				href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
-				target="_blank">Geo Cash</a
+				href="https://polygonscan.com/token/0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7"
+				target="_blank">Freiheit</a
+			>,
+			<a
+				href="https://polygonscan.com/token/0x0715184614CA1e90EafDf7A4d7fE33B046b47C02"
+				target="_blank">Friede</a
 			>
-			ist das neue Bitcoin.
-			<h4>Initiale Verteilung</h4>
-			Die initiale Verteilung von 
+			und
 			<a
 				href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
 				target="_blank">Geo Cash</a
 			>
-			erfolgt per
-			<a href="https://de.wikipedia.org/wiki/Geocaching" target="_blank">Geo Caching</a>.
-			<p><br /></p>
+			sind das neue Bitcoin.
+			<h4>Initiale Verteilung</h4>
 
 			<a href="https://github.com/moniquebaumann/friends-of-satoshi" target="_blank">Wir</a> fördern
 			zuerst eine breite initiale Verteilung.
 			<p><br /></p>
-			Danach hinterlegen wir einen passenden Gegenwert, um 
-			<a
-				href="https://www.youtube.com/watch?v=fW8amMCVAJQ"
-				target="_blank">die Party</a
-			>
-			so richtig zu starten.
+			Danach hinterlegen wir einen passenden Gegenwert, um
+			<a href="https://www.youtube.com/watch?v=fW8amMCVAJQ" target="_blank">die Party</a>
+			zu starten.
 			<p><br /></p>
+			Die initiale Verteilung unserer Währungen erfolgt beispielsweise per
+			<a href="https://de.wikipedia.org/wiki/Geocaching" target="_blank">Geo Caching</a>.
+			<p><br /><br /></p>
 
-			<p><br /></p>
 			<Videos {texts} displayAmount={3}></Videos>
 			<p><br /><br /></p>
 
@@ -90,16 +85,53 @@
 
 		<div class="content">
 			<h4 class="text-center">{texts.totalSupply}</h4>
-			360.000.000
-			<a
-				href="https://polygonscan.com/address/0xb841A4f979F9510760ecf60512e038656E68f459"
-				target="_blank">Geo Cash</a
-			>
-			<p><br></p>
-			Weitere Details findest Du zum Beispiel bei <a href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c" target="_blank">geckoterminal.com</a> und im 
-			<a href="https://github.com/geo-logs/freiheit" target="_blank">Code Repository</a>. 
 
-			<p><br /></p>
+			<div class="tableDiv">
+				<table>
+					<tr>
+						<th>Währung</th>
+						<th>Gesamtmenge</th>
+					</tr>
+					<tr>
+						<td>
+							<a href="https://polygonscan.com/token/0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7" target="_blank">
+								Freiheit
+							</a>
+						</td>
+						<td class="longInfo">
+							<a href="https://www.geckoterminal.com/polygon_pos/pools/0x0715184614CA1e90EafDf7A4d7fE33B046b47C02" target="_blank">
+								9.000.000.000 Coins
+							</a>
+						</td>
+					</tr>					
+					<tr>
+						<td>
+							<a href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459" target="_blank">
+								Friede
+							</a>
+						</td>
+						<td class="longInfo">
+							<a href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c" target="_blank">
+								9.000.000.000 Coins
+							</a>
+						</td>
+					</tr>					
+					<tr>
+						<td>
+							<a href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459" target="_blank">
+								Geo Cash
+							</a>
+						</td>
+						<td class="longInfo">
+							<a href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c" target="_blank">
+								360.000.000 Coins
+							</a>
+						</td>
+					</tr>					
+
+				</table>
+			</div>
+		
 			<!-- <div class="center">
 				<img class="explanatoryImage" src="/smart-contract.png" alt="" />
 			</div>
@@ -185,4 +217,24 @@
 			text-align: center;
 		}
 	}
+	.tableDiv {
+				overflow-x: scroll;
+			}
+			table {
+				font-family: arial, sans-serif;
+				border-collapse: collapse;
+				width: 100%;
+			}
+		
+			td,
+			th {
+				border: 1px solid #dddddd;
+				text-align: left;
+				padding: 8px;
+			}
+		
+			tr:nth-child(even) {
+				background-color: #dddddd;
+			}
+
 </style>
