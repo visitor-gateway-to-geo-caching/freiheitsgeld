@@ -1,15 +1,15 @@
-# Freiheitsgeld Besucheroberfläche
-[Freiheitsgeld.de](https://freiheitsgeld.de)  
+# Freiheitsgeld 
+## Unsere Währungen
+1. Freiheit (Smart Contract Adresse: [0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7](https://polygonscan.com/token/0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7))
+2. Friede   (Smart Contract Addresse: [0x0715184614CA1e90EafDf7A4d7fE33B046b47C02](https://polygonscan.com/token/0x0715184614CA1e90EafDf7A4d7fE33B046b47C02))
+3. Geo Cash (Smart Contract Addresse: [0xb841A4f979F9510760ecf60512e038656E68f459](0xb841A4f979F9510760ecf60512e038656E68f459))
 
-[Wir](https://github.com/moniquebaumann/friends-of-satoshi) finanzieren [Freiheit](https://rumble.com/c/c-5722872/videos), Friede und Gerechtigkeit.   
-
-## Details
-Wir kombinieren Bildungsangebote mit [Geo-Caching](https://geo-caching.org).      
-
-Details zum [Freiheitsgeld](https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459#code) findet Ihr auch in [dieser Codesammlung](https://github.com/geo-logs/freiheit/blob/main/README.md).  
+## Unsere Ziele
+Wir finanzieren Freiheit, Friede und Gerechtigkeit.
 
 ## Über uns 
-Wir sind [Freunde von Satoshi](https://github.com/moniquebaumann/friends-of-satoshi). 
+Wir sind [Freunde von Satoshi](https://github.com/moniquebaumann/friends-of-satoshi).  
+Chancellor on brink of second bailout for banks.
   
 ![chancellor-on-brink-of-second-bailout-for-banks](https://github.com/moniquebaumann/freedom-cash-bot/assets/160405077/a8fd8989-a8d1-4a9d-9dc1-bd0f24196773)
 
