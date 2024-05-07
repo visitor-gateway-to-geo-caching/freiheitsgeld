@@ -5,7 +5,6 @@
 	import FeedbackToVisitor from './FeedbackToVisitor.svelte';
 
 	export let treasuries = [];
-	export let contract = {};
 	export let width = 100;
 	export let height = 400;
 	export let offchain = false;
@@ -100,23 +99,6 @@
 		}
 	}
 
-	async function addFreedomTreasury() {
-		const part1 = `${newHint.lat}œ${newHint.lon}`;
-		if (newHint.txt.indexOf('https://rumble.com/embed/') === 0) {
-			const part2 = `${newHint.txt.substr(25, newHint.txt.length - 1)}`;
-			console.log(`part2 ${part2}`);
-			await contract.addFreedomTreasury(
-				ethers.encodeBytes32String(part1),
-				ethers.encodeBytes32String(part2)
-			);
-			visitorInformed = false;
-		} else {
-			alert(
-				'you need to enter a rumble.com embed url like \nhttps://rumble.com/embed/v47pp4q/?pub=3blg3u'
-			);
-			newHint.txt = '';
-		}
-	}
 	function cleanDesk() {
 		visitorInformed = true;
 		newHint = {};
@@ -132,7 +114,7 @@
 {#if newHint.lat != undefined}
 	<p><br /></p>
 	{#if offchain}
-		Der folgende Eintrag wird hinzugefügt: <p><br /></p>
+		Um den Eintrag hinzuzufügen, kopiere bitte den folgenden Text und sende <a href="https://t.me/FriendsOfSatoshi_bot" target="_blank">uns</a> diesen: <p><br /></p>
 		{JSON.stringify(newHint)}
 	{:else}
 		The following GeoCache will be added
@@ -164,10 +146,10 @@
 				placeholder="... optional: paste your public wallet address ..."
 			/>
 		{/if}
-		{#if newHint.txt != undefined}
+		<!-- {#if newHint.txt != undefined}
 			<p><br /></p>
 			<button class="inside" on:click={() => addFreedomTreasury()}>Add</button>
-		{/if}
+		{/if} -->
 	{:else}
 		<FeedbackToVisitor {texts} on:clickedOK={() => cleanDesk()}
 		></FeedbackToVisitor>

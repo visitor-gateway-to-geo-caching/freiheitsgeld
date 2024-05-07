@@ -34,27 +34,6 @@
 	<p><br /></p>
 {/if}
 
-<p><br /></p>
-
-Du kannst unsere Währungen per bei 
-<a href="https://app.uniswap.org/swap" target="_blank">uniswap</a>
-kaufen und verkaufen. <br>Dazu brauchst Du die jeweilige Smart Contract Adresse: 
-<p><br></p>
-<a href="https://polygonscan.com/token/0xb841a4f979f9510760ecf60512e038656e68f459" target="_blank"
-	>Freiheit</a
->: 0xb841A4f979F9510760ecf60512e038656E68f459
-<p><br /></p>
-<br>
-<a href="https://polygonscan.com/token/0xb841a4f979f9510760ecf60512e038656e68f459" target="_blank"
-	>Friede</a
->: 0xb841A4f979F9510760ecf60512e038656E68f459
-<p><br /></p>
-<br>
-<a href="https://polygonscan.com/token/0xb841a4f979f9510760ecf60512e038656e68f459" target="_blank"
-	>Geo Cash</a
->: 0xb841A4f979F9510760ecf60512e038656E68f459
-<p><br /></p>
-
 
 
 {#if visitorIsConnectedViaBrowserWallet}

@@ -85,113 +85,113 @@
 
 		<div class="content">
 			<h4 class="text-center">{texts.totalSupply}</h4>
-
+			<p><br /></p>
 			<div class="tableDiv">
 				<table>
 					<tr>
-						<th>Währung</th>
+						<th style="text-align: center">Währung</th>
 						<th>Gesamtmenge</th>
 					</tr>
 					<tr>
 						<td>
-							<a href="https://polygonscan.com/token/0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7" target="_blank">
+							<a
+								href="https://polygonscan.com/token/0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7"
+								target="_blank"
+							>
 								Freiheit
 							</a>
 						</td>
 						<td class="longInfo">
-							<a href="https://www.geckoterminal.com/polygon_pos/pools/0x0715184614CA1e90EafDf7A4d7fE33B046b47C02" target="_blank">
+							<a
+								href="https://www.geckoterminal.com/polygon_pos/pools/0x0715184614CA1e90EafDf7A4d7fE33B046b47C02"
+								target="_blank"
+							>
 								9.000.000.000 Coins
 							</a>
 						</td>
-					</tr>					
+					</tr>
 					<tr>
 						<td>
-							<a href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459" target="_blank">
+							<a
+								href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
+								target="_blank"
+							>
 								Friede
 							</a>
 						</td>
 						<td class="longInfo">
-							<a href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c" target="_blank">
+							<a
+								href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c"
+								target="_blank"
+							>
 								9.000.000.000 Coins
 							</a>
 						</td>
-					</tr>					
+					</tr>
 					<tr>
 						<td>
-							<a href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459" target="_blank">
+							<a
+								href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
+								target="_blank"
+							>
 								Geo Cash
 							</a>
 						</td>
 						<td class="longInfo">
-							<a href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c" target="_blank">
+							<a
+								href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c"
+								target="_blank"
+							>
 								360.000.000 Coins
 							</a>
 						</td>
-					</tr>					
-
+					</tr>
 				</table>
 			</div>
-		
+
 			<!-- <div class="center">
 				<img class="explanatoryImage" src="/smart-contract.png" alt="" />
 			</div>
 			<p><br /><br /></p> -->
 			<p><br /></p>
-			<button class="button" on:click={() => (showTreasuries = !showTreasuries)}>
-				{texts.playWithTreasuries}
-			</button>
-			{#if showTreasuries}
-				<p><br /></p>
-				{#if visitorHasBrowserWallet && advanced}
-					<FreedomTreasuries {texts}></FreedomTreasuries>
-				{:else}
-					<FreedomTreasuriesOffChain {texts}></FreedomTreasuriesOffChain>
-					<p><br /></p>
-					<!-- <button class="inside" on:click={() => (advanced = !advanced)}>{texts.switchToOnChainMode}</button> -->
-				{/if}
-			{/if}
-
-			<p><br /><br /></p>
 
 			<button class="button" on:click={() => (invest = !invest)}>
 				{texts.buyAndSellFC}
 			</button>
 			{#if invest}
+				<p><br /><br></p>
+				Du kannst unsere Währungen bei
+				<a href="https://app.uniswap.org/swap" target="_blank">uniswap.org</a>
+				kaufen und verkaufen. <br />Dazu brauchst Du die jeweilige Smart Contract Adresse:
+				<p><br /></p>
+				<a
+					href="https://polygonscan.com/token/0xb841a4f979f9510760ecf60512e038656e68f459"
+					target="_blank">Freiheit</a
+				>: 0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7
+				<p><br /></p>
+				<br />
+				<a
+					href="https://polygonscan.com/token/0xb841a4f979f9510760ecf60512e038656e68f459"
+					target="_blank">Friede</a
+				>: 0x0715184614CA1e90EafDf7A4d7fE33B046b47C02
+				<p><br /></p>
+				<br />
+				<a
+					href="https://polygonscan.com/token/0xb841a4f979f9510760ecf60512e038656e68f459"
+					target="_blank">Geo Cash</a
+				>: 0xb841A4f979F9510760ecf60512e038656E68f459
+				<p><br /></p>
+
 				<p><br /></p>
 				<InvestmentInfo {texts} {visitorWithMobile}></InvestmentInfo>
 			{/if}
-
-			<!-- <p><br /><br /></p>
-			<button class="button" on:click={() => (showExchanges = !showExchanges)}>
-				{texts.showExchanges}
-			</button>
-			{#if showExchanges}
-				<p><br /></p>
-				<FreedomExchanges {texts}></FreedomExchanges>
-			{/if} -->
-			<!-- <p><br /><br /></p>
-			<button class="button" on:click={() => (showFreedomTribunal = !showFreedomTribunal)}>
-				{texts.playFreedomTribunal}
-			</button>
-			{#if showFreedomTribunal}
-				<p><br /></p>
-				<FreedomTribunal {texts}></FreedomTribunal>
-			{/if}
-			<p><br /><br /></p>
-			<button class="button" on:click={() => (showFreedomEnterprise = !showFreedomEnterprise)}>
-				{texts.freedomEnterprise}
-			</button>
-			{#if showFreedomEnterprise}
-				<p><br /></p>
-				<FreedomEnterprise {texts}></FreedomEnterprise>
-			{/if} -->
 
 			<p><br /><br /></p>
 			<button class="button" on:click={() => (showPhilosophy = !showPhilosophy)}>
 				{texts.showPhilosophy}
 			</button>
 			{#if showPhilosophy}
-				<p><br /></p>
+				<p><br /><br></p>
 				<Philosophy {texts}></Philosophy>
 			{/if}
 			<p><br /><br /></p>
@@ -218,23 +218,22 @@
 		}
 	}
 	.tableDiv {
-				overflow-x: scroll;
-			}
-			table {
-				font-family: arial, sans-serif;
-				border-collapse: collapse;
-				width: 100%;
-			}
-		
-			td,
-			th {
-				border: 1px solid #dddddd;
-				text-align: left;
-				padding: 8px;
-			}
-		
-			tr:nth-child(even) {
-				background-color: #dddddd;
-			}
+		overflow-x: scroll;
+	}
+	table {
+		font-family: arial, sans-serif;
+		border-collapse: collapse;
+		width: 100%;
+	}
 
+	td,
+	th {
+		border: 1px solid #dddddd;
+		padding: 8px;
+		text-align: center;
+	}
+
+	tr:nth-child(even) {
+		background-color: #dddddd;
+	}
 </style>

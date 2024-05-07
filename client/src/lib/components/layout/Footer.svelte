@@ -14,7 +14,7 @@
 		</span>
 		<span>•</span>
 		<span>
-			Freedom
+			Freiheit
 			<!-- <a class="underline" href="https://freedomcash.org" target="_blank" rel="noopener"
 				>FreedomCash.org</a
 			> -->

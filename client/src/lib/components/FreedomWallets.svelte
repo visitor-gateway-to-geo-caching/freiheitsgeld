@@ -10,9 +10,7 @@
 <p><br /></p>
 
 {texts.wallets5}
-<a href="https://metamask.io" target="_blank">metamask.io</a>
-{texts.wallets6}
-<a href="https://sonsofcrypto.com/" target="_blank">sonsofcrypto</a>.
+<a href="https://metamask.io" target="_blank">metamask.io</a>.
 <p><br /></p>
 {@html texts.wallets7}
 <p><br /><br /></p>

@@ -2,7 +2,7 @@
 	export let texts;
 </script>
 <p><br /></p>
-{@html texts.releaseAnnouncement}
+<!-- {@html texts.releaseAnnouncement} -->
 
 <style>
 </style>
