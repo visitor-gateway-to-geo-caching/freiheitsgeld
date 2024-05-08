@@ -21,9 +21,7 @@
 		</span>
 		<span>•</span>
 		<span
-			><a
-				href="https://polygonscan.com/address/0xb841A4f979F9510760ecf60512e038656E68f459"
-				target="_blank">Smart Contract</a
+			><a href="/philosophy#impressum">Impressum</a
 			></span
 		>
 	</div>

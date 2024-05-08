@@ -65,4 +65,11 @@
 
 	<h4>{texts.philosophy22}</h4>
 	{@html texts.philosophy23}
+
+
+	<div id="impressum">
+		<h4>Impressum</h4>
+		{@html texts.impressumLong}
+	</div>
+
 {/if}
