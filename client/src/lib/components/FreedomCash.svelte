@@ -84,13 +84,13 @@
 		</div>
 
 		<div class="content">
-			<h4 class="text-center">{texts.totalSupply}</h4>
+			<h4 class="text-center">{texts.totalSupplies}</h4>
 			<p><br /></p>
 			<div class="tableDiv">
 				<table>
 					<tr>
-						<th style="text-align: center">Währung</th>
-						<th>Gesamtmenge</th>
+						<th style="text-align: center">{texts.currency}</th>
+						<th>{texts.totalSupply}</th>
 					</tr>
 					<tr>
 						<td>
@@ -103,7 +103,7 @@
 						</td>
 						<td class="longInfo">
 							<a
-								href="https://www.geckoterminal.com/polygon_pos/pools/0x0715184614CA1e90EafDf7A4d7fE33B046b47C02"
+								href="https://www.geckoterminal.com/polygon_pos/pools/0x2bc882c913655648c582aabde5aed2acd4e3ad7b"
 								target="_blank"
 							>
 								9.000.000.000 Coins
@@ -113,7 +113,7 @@
 					<tr>
 						<td>
 							<a
-								href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
+								href="https://polygonscan.com/token/0x0715184614CA1e90EafDf7A4d7fE33B046b47C02"
 								target="_blank"
 							>
 								Friede
@@ -121,7 +121,7 @@
 						</td>
 						<td class="longInfo">
 							<a
-								href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c"
+								href="https://www.geckoterminal.com/polygon_pos/pools/0x16e579221bb5d27be335bba6966f87f013894226"
 								target="_blank"
 							>
 								9.000.000.000 Coins
@@ -165,13 +165,13 @@
 				kaufen und verkaufen. <br />Dazu brauchst Du die jeweilige Smart Contract Adresse:
 				<p><br /></p>
 				<a
-					href="https://polygonscan.com/token/0xb841a4f979f9510760ecf60512e038656e68f459"
+					href="https://polygonscan.com/token/0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7"
 					target="_blank">Freiheit</a
 				>: 0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7
 				<p><br /></p>
 				<br />
 				<a
-					href="https://polygonscan.com/token/0xb841a4f979f9510760ecf60512e038656e68f459"
+					href="https://polygonscan.com/token/0x0715184614CA1e90EafDf7A4d7fE33B046b47C02"
 					target="_blank">Friede</a
 				>: 0x0715184614CA1e90EafDf7A4d7fE33B046b47C02
 				<p><br /></p>
