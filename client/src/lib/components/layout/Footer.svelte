@@ -21,7 +21,7 @@
 		</span>
 		<span>•</span>
 		<span
-			><a href="/philosophy#impressum">Impressum</a
+			><a href="/philosophy">Impressum</a
 			></span
 		>
 	</div>

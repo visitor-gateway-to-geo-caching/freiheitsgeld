@@ -287,7 +287,7 @@ export const germanTexts = {
     buyAndSellFC: "Kaufe und Verkaufe Freiheitsgeld",
     playFreedomTribunal: "Spiele Freiheits Tribunal",
     showPhilosophy: "Philosophie",
-    philosophy: "Philosophie",
+    philosophy: "Philosophie & Kontakt",
     philosophy7: 'Die Straftaten der als Demokratien getarnten internationalsozialistischen "Regierungen" scheinen gefährlicher für die Menschheit als die Straftaten, welche durch die Freiheit und die Privatheit des Geldes scheinbar erleichtert werden. Young global cheaters haben versucht unsere Freiheit und unseren Frieden durch Zensur, Propaganda und korruptes Staatsgeld namens CBDCs zu zerstören.',
     philosophy11: `Bitte helft uns zusätzlich <a href="https://otherparty.co.uk" target="_blank">otherparty.co.uk</a> und <a href="https://gitcoin.co" target="_blank">gitcoin</a> zu stärken.`,
     philosophy14: "Rumble, GitCoin & OtherParty",
