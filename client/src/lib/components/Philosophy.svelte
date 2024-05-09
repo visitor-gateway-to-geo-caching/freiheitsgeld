@@ -14,14 +14,6 @@
 	{@html texts.philosophy17}
 
 	
-	<h4>{texts.problems}</h4>
-	{@html texts.philosophy7}
-	<h4>{texts.solutions}</h4>
-	{@html texts.philosophy21}
-	<p><br></p>
-
-	{@html freedomWords}
-
 	<p><br /><br /><br /></p>
 
 	<div class="iframediv">

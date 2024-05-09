@@ -36,7 +36,7 @@
 			{@html texts.whatWeDo}
 
 			<h4>Das Neue Bitcoin</h4>
-			Bevor Du unsere Währungen verstehst, solltest Du zuerst den Vorläufer (<a
+			Bevor Du <a href="https://privacy-is-not-a-crime.de/" target="_blank">unsere Währungen</a> verstehst, solltest Du zuerst <a href="https://www.youtube.com/watch?v=SGWIh9yzg-I" target="_blank">den Vorläufer</a> (<a
 				href="https://www.youtube.com/watch?v=XcsvjUW9D18"
 				target="_blank">Bitcoin</a
 			>) verstehen.
@@ -58,10 +58,10 @@
 				href="https://polygonscan.com/token/0xb841A4f979F9510760ecf60512e038656E68f459"
 				target="_blank">Geo Cash</a
 			>
-			sind das neue Bitcoin.
+			sind polypolistische Alternativen zu Bitcoin.
 			<h4>Initiale Verteilung</h4>
 
-			<a href="https://github.com/moniquebaumann/friends-of-satoshi" target="_blank">Wir</a> fördern
+			<a href="https://github.com/moniquebaumann/friends-of-satoshi/blob/main/README.md" target="_blank">Wir</a> fördern
 			zuerst eine breite initiale Verteilung.
 			<p><br /></p>
 			Danach hinterlegen wir einen passenden Gegenwert, um
@@ -73,14 +73,6 @@
 			<p><br /><br /></p>
 
 			<Videos {texts} displayAmount={3}></Videos>
-			<p><br /><br /></p>
-
-			<button class="button" on:click={() => (showWallets = !showWallets)}>
-				{texts.generatePaperWallet}
-			</button>
-			{#if showWallets}
-				<FreedomWallets {texts}></FreedomWallets>
-			{/if}
 		</div>
 
 		<div class="content">
@@ -148,12 +140,16 @@
 					</tr>
 				</table>
 			</div>
+			<p><br /><br /></p>
 
-			<!-- <div class="center">
-				<img class="explanatoryImage" src="/smart-contract.png" alt="" />
-			</div>
-			<p><br /><br /></p> -->
-			<p><br /></p>
+			<button class="button" on:click={() => (showWallets = !showWallets)}>
+				{texts.generatePaperWallet}
+			</button>
+			{#if showWallets}
+				<FreedomWallets {texts}></FreedomWallets>
+			{/if}
+
+			<p><br /><br></p>
 
 			<button class="button" on:click={() => (invest = !invest)}>
 				{texts.buyAndSellFC}
