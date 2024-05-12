@@ -27,6 +27,19 @@
 			title="Getting Ready"
 		/>
 	</div>	
+	<p><br /><br /><br /></p>
+
+	<div class="iframediv">
+		<iframe
+			class="rumble"
+			width="100%"
+			height="600"
+			src="https://rumble.com/embed/v11eh22/?pub=3blg3u"
+			frameborder="0"
+			allowfullscreen
+			title="Getting Ready"
+		/>
+	</div>	
 	<h4>{texts.philosophy14}</h4>
 	{@html texts.philosophy15}
 

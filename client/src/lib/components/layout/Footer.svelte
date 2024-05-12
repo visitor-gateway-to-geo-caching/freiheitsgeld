@@ -14,16 +14,16 @@
 		</span>
 		<span>•</span>
 		<span>
-			Freiheit
+			<a class="underline" href="https://privacy-is-not-a-crime.de" target="_blank" rel="noopener"
+				>Freiheit</a
+			>
+
 			<!-- <a class="underline" href="https://freedomcash.org" target="_blank" rel="noopener"
 				>FreedomCash.org</a
 			> -->
 		</span>
 		<span>•</span>
-		<span
-			><a href="/philosophy">Impressum</a
-			></span
-		>
+		<span><a href="/philosophy">Impressum</a></span>
 	</div>
 </footer>
 
