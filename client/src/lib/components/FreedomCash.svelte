@@ -2,9 +2,7 @@
 	import { onMount } from 'svelte';
 	import Videos from './Videos.svelte';
 	import FreedomWallets from './FreedomWallets.svelte';
-	import InvestmentInfo from './LogBook.svelte';
-	import FreedomTreasuries from './FreedomTreasuries.svelte';
-	import FreedomTreasuriesOffChain from './FreedomTreasuriesOffChain.svelte';
+	import LogBook from './LogBook.svelte';
 	import Philosophy from './Philosophy.svelte';
 
 	export let texts;
@@ -179,7 +177,7 @@
 				<p><br /></p>
 
 				<p><br /></p>
-				<InvestmentInfo {texts} {visitorWithMobile}></InvestmentInfo>
+				<LogBook {texts} {visitorWithMobile}></LogBook>
 			{/if}
 
 			<p><br /><br /></p>

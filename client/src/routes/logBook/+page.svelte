@@ -1,5 +1,5 @@
 <script>
-	import InvestmentInfo from '$components/LogBook.svelte';
+	import LogBook from '$components/LogBook.svelte';
 	import { germanTexts } from '$lib/helpers';
 	import { onMount } from 'svelte';
 
@@ -24,15 +24,10 @@
 
 <div class="text-center content">
 	<h2>{texts.logBook}</h2>
-	<InvestmentInfo {texts} {visitorWithMobile}></InvestmentInfo>
+	<LogBook {texts} {visitorWithMobile}></LogBook>
 
 	{#if !visitorHasBrowserWallet}
-		{@html texts.studySmartContract}
-		<p><br /><br /></p>
-		<div class="center">
-			<img class="explanatoryImage" src="/smart-contract.png" alt="" />
-		</div>
-		<p><br /><br /></p>
+	 	<p><br><br><br></p>
 	{/if}
 </div>
 

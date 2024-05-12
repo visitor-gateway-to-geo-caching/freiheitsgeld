@@ -288,12 +288,10 @@ export const germanTexts = {
     playFreedomTribunal: "Spiele Freiheits Tribunal",
     showPhilosophy: "Philosophie",
     philosophy: "Philosophie & Kontakt",
-    philosophy7: 'Die Straftaten der als Demokratien getarnten "Regierungen" scheinen gefährlicher für die Menschheit als die Straftaten, welche durch die Freiheit und die Privatheit des Geldes scheinbar erleichtert werden. Young global cheaters haben versucht unsere Freiheit und unseren Frieden durch Zensur, Propaganda und korruptes Staatsgeld namens CBDCs zu zerstören.',
     philosophy11: `Bitte helft uns zusätzlich <a href="https://otherparty.co.uk" target="_blank">otherparty.co.uk</a> und <a href="https://gitcoin.co" target="_blank">gitcoin</a> zu stärken.`,
     philosophy14: "Freunde",
     philosophy15: '<a href="https://rumble.com/c/c-5722872/videos" target="_blank">Rumble.com</a> ist die meinungsfreiheitliche Alternative gegenüber youtube. <p><br></p> Bitte kopiere Deine Videos von youtube zu <a href="https://rumble.com/c/c-5722872/videos" target="_blank">rumble.com</a> um die Meinungsfreiheit und damit die stetige Erkundung der Wahrheit zu fördern.',
     philosophy17: 'Wir erkunden und gestalten Architekturen der Freiheit. <p><br></p>Wir behandeln jeden Einzelnen so wie wir von diesem behandelt werden. <p><br></p> Wir spielen für Friede, Freiheit und Gerechtigkeit.',
-    philosophy21: 'Wir helfen jedem frei zu sein, der uns hilft frei zu sein.',
     philosophy22: "Kontakt",
     philosophy23: `<a href="https://github.com/moniquebaumann/friends-of-satoshi" target="_blank">Unsere</a> Projekte sind <a href="https://github.com/FreiheitsGeld/freiheitsgeld/" target="_blank"> Open Source</a>. <p><br>Wir glauben nicht an zentrale Verantwortlichkeiten. Daher reagieren wir selten oder gar nicht auf E-Mails an <a href="mailto:monique@freedomcash.org">monique@freedomcash.org</a>. <p><br>Falls Du eine Schwachstelle entdeckst, kannst du eine Fehlermeldung via <a href="https://github.com/FreiheitsGeld/freiheitsgeld/issues/new" target="_blank">GitHub</a> beisteuern. Zusätzlich kannst Du auch auch die passende Lösung per Pull Request bereitstellen.` ,
     impressumLong: `Es handelt sich bei unseren Projekten nicht um gewerbliche Projekte sondern um Open Source Bildungsprojekte ohne Gewinnerzielungsabsicht unsererseits. Wir sind bereits frei. <p><br></p>Aus diesen Gründen verzichten wir auf ein <a href="https://www.youtube.com/watch?v=I6jaruQuBhM" target="_blank"> klassisches Impressum</a>. <p><br></p><h6> Keine Abmahnung ohne Kontakt!</h6> <br>
