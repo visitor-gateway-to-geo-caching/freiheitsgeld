@@ -6,7 +6,7 @@
 	let texts = germanTexts;
 </script>
 
-<h2 class="text-center">{texts.title}</h2>
+<h2 class="text-center">Weltfriede, Freiheit, Freundschaft</h2>
 
 <main>
 	<FreedomCash {texts}></FreedomCash>

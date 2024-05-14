@@ -5,9 +5,26 @@
 	export let texts;
 </script>
 
-{@html texts.philosophy17}
+Wir wünschen uns Weltfrieden, Freiheit und Freundschaft. <p><br></p>
+Wir laden alle ein jeden Einzelnen auf der Welt mit Respekt zu behandeln. <p><br></p> 
+Wir laden alle ein Architekturen für Freiheit, Weltfrieden und Freundschaft mitzugestalten.<p><br></p>
 
-<p><br /><br /><br /></p>
+<p><br /></p>
+
+<h4>Eine Bitte an Politiker</h4>
+Bitte arbeiten Sie gemeinsam mit Menschen, die etwas von Architekturen für Freiheit, Weltfrieden und Freundschaft verstehen wie vielleicht <a href="https://www.youtube.com/watch?v=SGWIh9yzg-I" target="_blank">Roger</a>. 
+<p><br></p>
+Wir nutzen manchmal vielleicht eine sehr direkte Sprache. Bitte begreifen Sie das nicht als Beleidigung. Wir möchten friedlich Freiheit, Weltfrieden und Freundschaft fördern. 
+Sie verstehen wahrscheinlich, dass dies in den zurückliegenden Jahren ein mitunter schwieriges Unterfangen darstellte. 
+<p><br></p>
+Monopolistische Ansätze haben vielleicht ausgedient. Vielleicht wird es Zeit für Freiheit, Weltfrieden und Freundschaft. Bitte lassen Sie dem eine Chance.
+
+<p><br><br><br></p>
+
+
+
+
+
 
 <div class="iframediv">
 	<iframe

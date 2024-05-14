@@ -5,7 +5,7 @@
 3. Geo Cash (Smart Contract Addresse: [0xb841A4f979F9510760ecf60512e038656E68f459](0xb841A4f979F9510760ecf60512e038656E68f459))
 
 ## Unsere Ziele
-Wir finanzieren Freiheit, Friede und Gerechtigkeit.
+Wir möchten Menschen für Freiheit, Weltfrieden und Freundschaft begeistern.
 
 ## Über uns 
 Wir sind [Freunde von Satoshi](https://github.com/moniquebaumann/friends-of-satoshi).  

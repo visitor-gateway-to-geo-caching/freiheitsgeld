@@ -266,8 +266,8 @@ export const getRandomEntries = (entries, amountOfRandomEntries) => {
 
 
 export const germanTexts = {
-    title: "Freiheit",
-    whatWeDo: 'Wir beenden staatlich organisierte Kriminalität. <p><br></p>Wir trennen Geld von Staatskriminellen so wie Religion von Staat getrennt wurde. <p><br></p>Unsere Währungen sind <a href="https://www.geckoterminal.com/polygon_pos/pools/0x2bc882c913655648c582aabde5aed2acd4e3ad7b" target="_blank">Freiheit</a>, <a href="https://www.geckoterminal.com/polygon_pos/pools/0x16e579221bb5d27be335bba6966f87f013894226" target="_blank">Friede</a> und <a href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c" target="_blank">Geo Cash</a>. ',
+    title: "Weltfriede, Freiheit, Freundschaft",
+    whatWeDo: ' <p><br></p>Unsere Währungen sind <a href="https://www.geckoterminal.com/polygon_pos/pools/0x2bc882c913655648c582aabde5aed2acd4e3ad7b" target="_blank">Freiheit</a>, <a href="https://www.geckoterminal.com/polygon_pos/pools/0x16e579221bb5d27be335bba6966f87f013894226" target="_blank">Friede</a> und <a href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c" target="_blank">Geo Cash</a>. ',
     watchMoreVideos: "Mehr Videos",
     contactFriendsOfSatoshi: 'Sobald Du einen solchen Freiheitsgeldbeutel gefunden oder generiert hast, kannst Du dessen <b>öffentliche</b> Addresse und ein entsprechendes Video an <a href="https://t.me/FriendsOfSatoshi_bot" target="_blank">FriendsOfSatoshi</a> senden.',
     problems: "Probleme",
@@ -290,7 +290,7 @@ export const germanTexts = {
     philosophy: "Philosophie & Kontakt",
     philosophy11: `Bitte helft uns zusätzlich <a href="https://otherparty.co.uk" target="_blank">otherparty.co.uk</a> und <a href="https://gitcoin.co" target="_blank">gitcoin</a> zu stärken.`,
     philosophy14: "Freunde",
-    philosophy15: '<a href="https://rumble.com/c/c-5722872/videos" target="_blank">Rumble.com</a> ist die meinungsfreiheitliche Alternative gegenüber youtube. <p><br></p> Bitte kopiere Deine Videos von youtube zu <a href="https://rumble.com/c/c-5722872/videos" target="_blank">rumble.com</a> um die Meinungsfreiheit und damit die stetige Erkundung der Wahrheit zu fördern.',
+    philosophy15: '<a href="https://rumble.com/c/c-5722872/videos" target="_blank">Rumble.com</a> ist eine meinungsfreiheitliche Alternative gegenüber youtube.',
     philosophy17: 'Wir erkunden und gestalten Architekturen der Freiheit. <p><br></p>Wir behandeln jeden Einzelnen so wie wir von diesem behandelt werden. <p><br></p> Wir spielen für Friede, Freiheit und Gerechtigkeit.',
     philosophy22: "Kontakt",
     philosophy23: `<a href="https://github.com/moniquebaumann/friends-of-satoshi" target="_blank">Unsere</a> Projekte sind <a href="https://github.com/FreiheitsGeld/freiheitsgeld/" target="_blank"> Open Source</a>. <p><br>Wir glauben nicht an zentrale Verantwortlichkeiten. Daher reagieren wir selten oder gar nicht auf E-Mails an <a href="mailto:monique@freedomcash.org">monique@freedomcash.org</a>. <p><br>Falls Du eine Schwachstelle entdeckst, kannst du eine Fehlermeldung via <a href="https://github.com/FreiheitsGeld/freiheitsgeld/issues/new" target="_blank">GitHub</a> beisteuern. Zusätzlich kannst Du auch auch die passende Lösung per Pull Request bereitstellen.` ,
