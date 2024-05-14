@@ -63,12 +63,19 @@ Es wäre wahrscheinlich auch töricht uns als r... extrem oder als v... theoreti
 Wir sind für Weltfrieden, Freiheit und Freundschaft.<p><br></p>
 
 <p><br><br><br></p>
-<h4>Scams</h4>
-Leider gab es zumindest bisher im Crypto Space wirklich viele Scammer. Deshalb möchten wir jeden inspirieren lediglich mit sehr kleinen Beträgen zu experimentieren. 
-Gerade für Neueinsteiger gab es zumindest bisher ein hohes Risiko von irgendeinem Scammer abgezockt zu werden. Falls im Internet oder im echten Leben Leute auftauchen, die sich als Monique Baumann oder als Verantwortliche für unsere Seiten ausgeben, handelt es sich vielleicht mit einer hohen Wahrscheinlichkeit um Scammer. 
+<h4>Freunde</h4>
+<h6>House of Satoshi</h6>
+<p><br></p>
+<a href="https://www.house-of-satoshi.ch/" target="_blank">
+	<img src="./house-of-satoshi.png" alt="">
+</a>. 
 
 <p><br><br><br></p>
-<h4>Freunde</h4>
+<h6>Rumble</h6>
+<p><br></p>
+
+
+
 <a href="https://rumble.com/c/c-5722872/videos" target="_blank">Rumble.com</a> ist eine meinungsfreiheitliche Alternative gegenüber youtube.
 
 <p><br /><br /></p>
@@ -92,6 +99,11 @@ Gerade für Neueinsteiger gab es zumindest bisher ein hohes Risiko von irgendein
 <p><br /></p>
 
 <a href="https://otherparty.co.uk" target="_blank">otherparty.co.uk</a> und <a href="https://gitcoin.co" target="_blank">gitcoin</a> sind vielleicht auch sehr sehr geil.
+<p><br><br><br></p>
+<h4>Scams</h4>
+Leider gab es zumindest bisher im Crypto Space wirklich viele Scammer. Deshalb möchten wir jeden inspirieren lediglich mit sehr kleinen Beträgen zu experimentieren. 
+Gerade für Neueinsteiger gab es zumindest bisher ein hohes Risiko von irgendeinem Scammer abgezockt zu werden. Falls im Internet oder im echten Leben Leute auftauchen, die sich als Monique Baumann oder als Verantwortliche für unsere Seiten ausgeben, handelt es sich vielleicht mit einer hohen Wahrscheinlichkeit um Scammer. 
+
 
 <p><br /></p>
 
