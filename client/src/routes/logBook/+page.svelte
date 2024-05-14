@@ -1,9 +1,6 @@
 <script>
 	import LogBook from '$components/LogBook.svelte';
-	import { germanTexts } from '$lib/helpers';
 	import { onMount } from 'svelte';
-
-	let texts = germanTexts;
 
 	let visitorHasBrowserWallet = false;
 	let visitorWithMobile = false;
@@ -23,8 +20,8 @@
 </script>
 
 <div class="text-center content">
-	<h2>{texts.logBook}</h2>
-	<LogBook {texts} {visitorWithMobile}></LogBook>
+	<h2>Spuren der Freiheit</h2>
+	<LogBook {visitorWithMobile}></LogBook>
 
 	{#if !visitorHasBrowserWallet}
 	 	<p><br><br><br></p>

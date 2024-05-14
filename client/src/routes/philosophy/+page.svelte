@@ -1,16 +1,13 @@
 <script>
 	import Seo from '$components/Seo.svelte';
 	import Philosophy from '$components/Philosophy.svelte';
-	import { germanTexts } from '$lib/helpers';
-
-	let texts = germanTexts;
 </script>
 
 <Seo title="Freedom Philosophy" />
 
 <div class="text-center content">
-	<h2>{texts.philosophy}</h2>
-	<Philosophy {texts}></Philosophy>
+	<h2>Philosophie</h2>
+	<Philosophy></Philosophy>
 </div>
 <p><br /></p>
 

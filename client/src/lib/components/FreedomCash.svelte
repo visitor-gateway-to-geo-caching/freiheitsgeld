@@ -5,14 +5,11 @@
 	import LogBook from './LogBook.svelte';
 	import Philosophy from './Philosophy.svelte';
 
-	export let texts;
 	let visitorHasBrowserWallet = false;
 	let invest;
 	let showPhilosophy;
 	let showWallets;
-	let showTreasuries;
 	let visitorWithMobile = false;
-	let advanced = false;
 
 	onMount(async () => {
 		if (typeof window.ethereum === 'undefined') {
@@ -41,11 +38,11 @@
 	<p><br /></p>
 	Unsere experimentellen Währungen sind beispielsweise
 	<a
-		href="https://www.geckoterminal.com/polygon_pos/pools/0x2bc882c913655648c582aabde5aed2acd4e3ad7b"
+		href="https://www.geckoterminal.com/polygon_pos/pools/0xf1d949b014da81a14986c9c3900151a54c0393b9"
 		target="_blank">Freiheit</a
 	>,
 	<a
-		href="https://www.geckoterminal.com/polygon_pos/pools/0x16e579221bb5d27be335bba6966f87f013894226"
+		href="https://www.geckoterminal.com/polygon_pos/pools/0xd38acec059220e8ce1a50783490b73a4a5422368"
 		target="_blank">Friede</a
 	>
 	und
@@ -80,17 +77,17 @@
 
 	<p><br /><br /><br /></p>
 	<div class="content">
-		<Videos {texts} displayAmount={3}></Videos>
+		<Videos displayAmount={3}></Videos>
 	</div>
 
 	<div class="content">
-		<h4 class="text-center">{texts.totalSupplies}</h4>
+		<h4 class="text-center">Gesamtmengen</h4>
 		<p><br /></p>
 		<div class="tableDiv">
 			<table>
 				<tr>
-					<th style="text-align: center">{texts.currency}</th>
-					<th>{texts.totalSupply}</th>
+					<th style="text-align: center">Währung</th>
+					<th>Gesamtmenge</th>
 				</tr>
 				<tr>
 					<td>
@@ -103,7 +100,7 @@
 					</td>
 					<td class="longInfo">
 						<a
-							href="https://www.geckoterminal.com/polygon_pos/pools/0x2bc882c913655648c582aabde5aed2acd4e3ad7b"
+							href="https://www.geckoterminal.com/polygon_pos/pools/0xf1d949b014da81a14986c9c3900151a54c0393b9"
 							target="_blank"
 						>
 							9.000.000.000 Coins
@@ -121,7 +118,7 @@
 					</td>
 					<td class="longInfo">
 						<a
-							href="https://www.geckoterminal.com/polygon_pos/pools/0x16e579221bb5d27be335bba6966f87f013894226"
+							href="https://www.geckoterminal.com/polygon_pos/pools/0xd38acec059220e8ce1a50783490b73a4a5422368"
 							target="_blank"
 						>
 							9.000.000.000 Coins
@@ -151,23 +148,29 @@
 		<p><br /><br /></p>
 
 		<button class="button" on:click={() => (showWallets = !showWallets)}>
-			{texts.generatePaperWallet}
+			Generiere Freiheitsgeldbeutel
 		</button>
 		{#if showWallets}
-			<FreedomWallets {texts}></FreedomWallets>
+			<FreedomWallets></FreedomWallets>
 		{/if}
 
 		<p><br /><br /></p>
 
 		<button class="button" on:click={() => (invest = !invest)}>
-			{texts.buyAndSellFC}
+			Kaufe und Verkaufe Freiheitsgeld
 		</button>
 		{#if invest}
 			<p><br /><br /></p>
-			Du kannst unsere Währungen bei
-			<a href="https://app.uniswap.org/swap" target="_blank">uniswap.org</a>
-			kaufen und verkaufen. <br />Dazu brauchst Du die jeweilige Smart Contract Adresse:
+			Bitte tausche unsere Freiheitswährungen lediglich mit friedliebenden Menschen aus, die jeden Menschen
+			auf der Welt mit Respekt behandeln.
 			<p><br /></p>
+			Falls Du noch niemanden persönlich kennst der entsprechend auch schon Freiheitsgeld hat, kannst
+			Du Freiheitsgeld z.B. bei
+			<a href="https://app.uniswap.org/swap" target="_blank">uniswap.org</a>
+			kaufen und verkaufen.
+			<p><br /></p>
+			Dazu brauchst Du die jeweilige Smart Contract Adresse:
+			<p><br /><br /><br /></p>
 			<a
 				href="https://polygonscan.com/token/0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7"
 				target="_blank">Freiheit</a
@@ -187,25 +190,38 @@
 			<p><br /></p>
 
 			<p><br /></p>
-			<LogBook {texts} {visitorWithMobile}></LogBook>
+			<LogBook {visitorWithMobile}></LogBook>
 		{/if}
 
 		<p><br /><br /></p>
 		<button class="button" on:click={() => (showPhilosophy = !showPhilosophy)}>
-			{texts.showPhilosophy}
+			Philosophie
 		</button>
 		{#if showPhilosophy}
 			<p><br /><br /></p>
-			<Philosophy {texts}></Philosophy>
+			<Philosophy></Philosophy>
 		{/if}
 		<p><br /><br /></p>
-		{@html texts.quote}
+		Ich kaufe und verkaufe
+		<a
+			href="https://polygonscan.com/address/0xb841A4f979F9510760ecf60512e038656E68f459"
+			target="_blank">Geo Cash</a
+		>, Silber und Gold.
+		<a href="https://github.com/moniquebaumann" target="_blank"><i>Monique Baumann</i></a>
 
 		<p><br /><br /></p>
 		{#if !visitorHasBrowserWallet && !visitorWithMobile}
-			{@html texts.useBW}
+			<p><br /></p>
+			Bitte installiere ein vertrauenswürdiges Browserwallet wie beispielsweise<a
+				href="https://metamask.io"
+				target="_blank">metamask.io</a
+			>
+			oder nutze das im <a href="https://brave.com" target="_blank">brave.com</a> Browser eingebaute
+			Wallet.
 		{:else if !visitorHasBrowserWallet && visitorWithMobile}
-			{@html texts.useBIB}
+			Da es sich bei dieser Seite um eine verteilte Web App (dApp) handelt, besuche diese Seite
+			bitte mit dem in der <a href="https://metamask.io" target="_blank">Metamask App</a> eingebauten
+			Browser.
 		{/if}
 	</div>
 </section>

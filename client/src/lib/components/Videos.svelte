@@ -4,7 +4,6 @@
 	import { getRandomEntries } from '$lib/helpers';
 
 	export let displayAmount;
-	export let texts;
 
 	let displayedFirstTreasuries = [];
 	let displayedFirstExchanges = [];
@@ -19,7 +18,7 @@
 
 {#if ready}
 <a href="https://rumble.com/c/c-5722872" target="_blank">
-	<button>{texts.watchMoreVideos}</button>
+	<button>Mehr Videos</button>
 </a>
 <p><br /></p>
 	<div class="grid-container">

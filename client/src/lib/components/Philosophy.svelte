@@ -1,8 +1,5 @@
 <script>
-	import { getRandomEntries } from '$lib/helpers';
-	import { onMount } from 'svelte';
 
-	export let texts;
 </script>
 
 Wir wünschen uns Weltfrieden, Freiheit und Freundschaft. <p><br></p>
@@ -72,7 +69,7 @@ Gerade für Neueinsteiger gab es zumindest bisher ein hohes Risiko von irgendein
 
 <p><br><br><br></p>
 <h4>Freunde</h4>
-{@html texts.philosophy15}
+<a href="https://rumble.com/c/c-5722872/videos" target="_blank">Rumble.com</a> ist eine meinungsfreiheitliche Alternative gegenüber youtube.
 
 <p><br /><br /></p>
 <div class="iframediv">
@@ -94,14 +91,15 @@ Gerade für Neueinsteiger gab es zumindest bisher ein hohes Risiko von irgendein
 </a>
 <p><br /></p>
 
-{@html texts.philosophy11}
+<a href="https://otherparty.co.uk" target="_blank">otherparty.co.uk</a> und <a href="https://gitcoin.co" target="_blank">gitcoin</a> sind vielleicht auch sehr sehr geil.
 
 <p><br /></p>
 
-<h4>{texts.philosophy22}</h4>
-{@html texts.philosophy23}
+<h4>Kontakt</h4>
+<a href="https://github.com/moniquebaumann/friends-of-satoshi" target="_blank">Unsere</a> Projekte sind <a href="https://github.com/FreiheitsGeld/freiheitsgeld/" target="_blank"> Open Source</a>. <p><br>Wir glauben nicht an zentrale Verantwortlichkeiten. Daher reagieren wir selten oder gar nicht auf E-Mails an <a href="mailto:monique@freedomcash.org">monique@freedomcash.org</a>. <p><br>Falls Du eine Schwachstelle entdeckst, kannst du eine Fehlermeldung via <a href="https://github.com/FreiheitsGeld/freiheitsgeld/issues/new" target="_blank">GitHub</a> beisteuern. Zusätzlich kannst Du auch auch die passende Lösung per Pull Request bereitstellen.
 
 <div id="impressum">
 	<h4>Impressum</h4>
-	{@html texts.impressumLong}
+	Es handelt sich bei unseren Projekten nicht um gewerbliche Projekte sondern um Open Source Bildungsprojekte ohne Gewinnerzielungsabsicht unsererseits. Wir sind bereits frei. <p><br></p>Aus diesen Gründen verzichten wir auf ein <a href="https://www.youtube.com/watch?v=I6jaruQuBhM" target="_blank"> klassisches Impressum</a>. <p><br></p><h6> Keine Abmahnung ohne Kontakt!</h6> <br>
+    Sollte der Inhalt fremde Rechte Dritter oder gesetzliche Bestimmungen verletzen, kontaktieren Sie uns ohne Kostennote. Wir garantieren, dass zurecht beanstandete Inhalte unverzüglich entfernt werden, ohne dass von Ihrer Seite die Einschaltung eines Rechtsbeistandes erforderlich ist. Dennoch von Ihnen ohne vorherige Kontaktaufnahme ausgelöste Kosten werden im Sinne der Schadensminderungspflicht zurückgewiesen und gegebenenfalls wird Gegenklage wegen Verletzung vorgenannter Bestimmungen eingereicht.
 </div>

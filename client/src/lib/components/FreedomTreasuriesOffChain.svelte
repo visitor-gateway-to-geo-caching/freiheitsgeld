@@ -2,9 +2,10 @@
 	import { onMount } from 'svelte';
 	import { offChainTreasuries } from '../../off-chain-data';
 	import MapOfTreasuries from './MapOfTreasuries.svelte';
-	export let texts;
+
 	let dataLoaded = false;
 	let enrichedTreasuries = [];
+
 	onMount(async () => {
 		const baseTreasuries = offChainTreasuries;
 		for (const baseTreasury of baseTreasuries) {
@@ -20,9 +21,8 @@
 	});
 </script>
 
-{@html texts.treasuries2}
+Schatzkammern der Freiheit
 <p><br /><br /></p>
 {#if dataLoaded}
-	<MapOfTreasuries treasuries={enrichedTreasuries} offchain={true} {texts}></MapOfTreasuries>
+	<MapOfTreasuries treasuries={enrichedTreasuries} offchain={true}></MapOfTreasuries>
 {/if}
-
