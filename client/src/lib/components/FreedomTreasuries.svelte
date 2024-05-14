@@ -6,7 +6,6 @@
 	import MapOfTreasuries from './MapOfTreasuries.svelte';
 	import { FT, fTABI, FC, fCABI, FP, fPABI, vPeriodMinLength } from '../../constants';
 
-	export let texts;
 	let visitorIsConnectedViaBrowserWallet = false;
 	let visitorHasBrowserWallet = false;
 	let publicWalletAddressOfVisitor = '';
@@ -137,10 +136,10 @@
 	}
 </script>
 
-{@html texts.treasuries2}
+Erschaffe <a href="https://rumble.com/c/c-5722872/videos" target="_blank">Schätze der Freiheit</a> und mach die Erde zu einem freien Planeten. <p><br></p> Generiere und platziere <a href="https://freiheitsgeld.de/freedomWallets" target="_blank">Freiheitsgeldbeutel</a> an beliebigen schönen Orten. <p><br></p>Speichere Hinweis Videos bei <a href="https://rumble.com" target="_blank">rumble.com</a>.
 <p><br /><br /></p>
 {#if dataLoaded}
-	<MapOfTreasuries treasuries={enrichedTreasuries} {contract} {texts}></MapOfTreasuries>
+	<MapOfTreasuries treasuries={enrichedTreasuries}></MapOfTreasuries>
 	<p><br /></p>
 	{#each enrichedTreasuries as enrichedTreasury}
 		<div class="card {enrichedTreasury.reconciled ? 'reconciled' : 'open'}">
@@ -159,8 +158,7 @@
 			<p><br /></p>
 			{#if showMap}
 				<div class="specificMap">
-					<MapOfTreasuries height={200} treasuries={[enrichedTreasury]} {contract} {texts}
-					></MapOfTreasuries>
+					<MapOfTreasuries height={200} treasuries={[enrichedTreasury]}></MapOfTreasuries>
 				</div>
 				<p><br /></p>
 			{/if}

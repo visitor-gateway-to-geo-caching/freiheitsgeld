@@ -7,7 +7,6 @@
 
 	export let exchanges = [];
 	export let contract;
-	export let texts;
 	export let width = 100;
 	export let height = 400;
 	let visitorInformed = true;
@@ -134,7 +133,7 @@
 			<button class="inside" on:click={() => addFreedomExchange()}>Add</button>
 		{/if}
 	{:else}
-		<FeedbackToVisitor {texts} on:clickedOK={() => cleanDesk()}></FeedbackToVisitor>
+		<FeedbackToVisitor on:clickedOK={() => cleanDesk()}></FeedbackToVisitor>
 	{/if}
 {/if}
 

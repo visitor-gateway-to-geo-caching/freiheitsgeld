@@ -1,15 +1,12 @@
 <script>
 	// @ts-nocheck due to leaflet --> window is not defined... check app.html
 	import { onMount } from 'svelte';
-	import { ethers } from 'ethers';
-	import FeedbackToVisitor from './FeedbackToVisitor.svelte';
 
 	export let treasuries = [];
 	export let width = 100;
 	export let height = 400;
 	export let offchain = false;
-	export let texts
-	let visitorInformed = true;
+
 	let map;
 	let markerIcon;
 	let markers = [];
@@ -44,7 +41,7 @@
 		map = createMap(container);
 
 		for (const treasury of treasuries) {
-			let newMarker
+			let newMarker;
 			if (offchain) {
 				newMarker = L.marker([treasury.lat, treasury.lon], { icon: markerIcon })
 					.bindPopup(`<a href=${treasury.description}" target="_blank">${treasury.description}</a>`)
@@ -114,7 +111,12 @@
 {#if newHint.lat != undefined}
 	<p><br /></p>
 	{#if offchain}
-		Um den Eintrag hinzuzufügen, kopiere bitte den folgenden Text und sende <a href="https://t.me/FriendsOfSatoshi_bot" target="_blank">uns</a> diesen: <p><br /></p>
+		Um den Eintrag hinzuzufügen, kopiere bitte den folgenden Text und sende <a
+			href="https://t.me/FriendsOfSatoshi_bot"
+			target="_blank">uns</a
+		>
+		diesen:
+		<p><br /></p>
 		{JSON.stringify(newHint)}
 	{:else}
 		The following GeoCache will be added
@@ -130,30 +132,25 @@
 		{/if}
 	{/if}
 	<p><br /></p>
-	{#if visitorInformed}
+	<input
+		bind:value={newHint.txt}
+		class="myInputField"
+		type="text"
+		placeholder="... paste embed link from rumble.com ..."
+	/>
+	{#if offchain && newHint.txt}
+		<p><br /></p>
 		<input
-			bind:value={newHint.txt}
+			bind:value={newHint.from}
 			class="myInputField"
 			type="text"
-			placeholder="... paste embed link from rumble.com ..."
+			placeholder="... optional: paste your public wallet address ..."
 		/>
-		{#if offchain && newHint.txt}
-		<p><br></p>
-			<input
-				bind:value={newHint.from}
-				class="myInputField"
-				type="text"
-				placeholder="... optional: paste your public wallet address ..."
-			/>
-		{/if}
-		<!-- {#if newHint.txt != undefined}
+	{/if}
+	<!-- {#if newHint.txt != undefined}
 			<p><br /></p>
 			<button class="inside" on:click={() => addFreedomTreasury()}>Add</button>
 		{/if} -->
-	{:else}
-		<FeedbackToVisitor {texts} on:clickedOK={() => cleanDesk()}
-		></FeedbackToVisitor>
-	{/if}
 {/if}
 
 <style>
