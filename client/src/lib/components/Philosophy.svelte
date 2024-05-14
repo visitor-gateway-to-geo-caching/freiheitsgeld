@@ -12,19 +12,13 @@ Wir laden alle ein Architekturen für Freiheit, Weltfrieden und Freundschaft mit
 <p><br /></p>
 
 <h4>Eine Bitte an Politiker</h4>
-Bitte arbeiten Sie gemeinsam mit Menschen, die etwas von Architekturen für Freiheit, Weltfrieden und Freundschaft verstehen wie vielleicht <a href="https://www.youtube.com/watch?v=SGWIh9yzg-I" target="_blank">Roger</a>. 
+Bitte erwägen Sie eine mögliche ehrliche und respektvolle Zusammenarbeit mit Menschen, die etwas von Architekturen für Freiheit, Weltfrieden und Freundschaft <a href="https://www.youtube.com/watch?v=SGWIh9yzg-I" target="_blank">verstehen</a>. 
 <p><br></p>
 Wir nutzen manchmal vielleicht eine sehr direkte Sprache. Bitte begreifen Sie das nicht als Beleidigung. Wir möchten friedlich Freiheit, Weltfrieden und Freundschaft fördern. 
-Sie verstehen wahrscheinlich, dass dies in den zurückliegenden Jahren ein mitunter schwieriges Unterfangen darstellte. 
 <p><br></p>
-Monopolistische Ansätze haben vielleicht ausgedient. Vielleicht wird es Zeit für Freiheit, Weltfrieden und Freundschaft. Bitte lassen Sie dem eine Chance.
+Monopolistische Ansätze haben vielleicht ausgedient. Vielleicht wird es Zeit für Freiheit, Weltfrieden und Freundschaft. Wir finden <a href="https://privacy-is-not-a-crime.de" target="_blank">Privatsphäre ist kein Verbrechen</a> vielmehr scheint sie einer der Garanten für Freiheit, Weltfrieden und Freundschaft. Bitte lassen Sie dem eine Chance.
 
 <p><br><br><br></p>
-
-
-
-
-
 
 <div class="iframediv">
 	<iframe
@@ -39,6 +33,8 @@ Monopolistische Ansätze haben vielleicht ausgedient. Vielleicht wird es Zeit f�
 </div>
 <p><br /><br /><br /></p>
 
+<h4>History</h4>
+<p><br></p>
 <div class="iframediv">
 	<iframe
 		class="rumble"
@@ -50,7 +46,25 @@ Monopolistische Ansätze haben vielleicht ausgedient. Vielleicht wird es Zeit f�
 		title="Getting Ready"
 	/>
 </div>
-<h4>{texts.philosophy14}</h4>
+<p><br><br><br></p>
+<h4>Zensur</h4>
+Wir haben davon abgesehen unsere Domains zensurresistent per IPFS bereitzustellen. Wir möchten klar machen, dass wir nicht kriminell sind sondern einfach Menschen inspirieren möchten gemeinsam Architekturen für Freiheit, Weltfrieden und Freundschaft zu erkunden.
+<p><br><br><br></p>
+<h4>Pseudonyme Details</h4>
+Da wir bereits genug Ruhm, Macht und Freiheit haben, sind wir wahrscheinlich dauerhaft für die meisten Menschen anonym. Interessierte staatliche Mitarbeiter finden momentan vielleicht ohnehin alles heraus. Vielleicht können wir auch Euch inspirieren alle Menschen mit Respekt zu behandeln und friedliebenden Menschen zukünftig wieder mehr Privatsphäre zu gönnen.
+Falls Ihr unsere Webseiten nicht akzeptieren könnt, wollt oder dürft, kontaktiert bitte unseren Domainprovider und schaltet die Domains einfach ab, da wir aus räumlichen Gründen vielleicht erst zeitverzögert auf Post reagieren können. 
+Falls <a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">das hier</a> stimmt, ist es vielleicht wirklich Zeit, dass wir uns alle gegenseitig besser und respektvoller als bisher helfen wieder zur Vernunft zu kommen. 
+Bitte probiert nicht uns irgendetwas anzuhängen, falls das Projekt tatsächlich zum Erfolg werden sollte. <p><br></p>Bis auf leicht verspätete Steuer- und GEZ Zahlungen, Autofahren mit Handy am Ohr (ohne erwischt worden zu sein), leichten Geschwindigkeitsübertretungen und Parkverstößen sind wir unsere Erachtens sehr vernünftige, friedliebende Menschen. 
+
+Wir sind für Weltfrieden, Freiheit und Freundschaft.<p><br></p>
+
+<p><br><br><br></p>
+<h4>Scams</h4>
+Leider gab es zumindest bisher im Crypto Space wirklich viele Scammer. Deshalb möchten wir jeden inspirieren lediglich mit sehr kleinen Beträgen zu experimentieren. 
+Gerade für Neueinsteiger gab es zumindest bisher ein hohes Risiko von irgendeinem Scammer abgezockt zu werden. Falls im Internet oder im echten Leben Leute auftauchen, die sich als Monique Baumann oder als Verantwortliche für unsere Seiten ausgeben, handelt es sich vielleicht mit einer hohen Wahrscheinlichkeit um Scammer. 
+
+<p><br><br><br></p>
+<h4>Freunde</h4>
 {@html texts.philosophy15}
 
 <p><br /><br /></p>

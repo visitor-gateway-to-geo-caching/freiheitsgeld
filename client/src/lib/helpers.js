@@ -288,7 +288,7 @@ export const germanTexts = {
     playFreedomTribunal: "Spiele Freiheits Tribunal",
     showPhilosophy: "Philosophie",
     philosophy: "Philosophie & Kontakt",
-    philosophy11: `Bitte helft uns zusätzlich <a href="https://otherparty.co.uk" target="_blank">otherparty.co.uk</a> und <a href="https://gitcoin.co" target="_blank">gitcoin</a> zu stärken.`,
+    philosophy11: `<a href="https://otherparty.co.uk" target="_blank">otherparty.co.uk</a> und <a href="https://gitcoin.co" target="_blank">gitcoin</a> sind vielleicht auch sehr sehr geil.`,
     philosophy14: "Freunde",
     philosophy15: '<a href="https://rumble.com/c/c-5722872/videos" target="_blank">Rumble.com</a> ist eine meinungsfreiheitliche Alternative gegenüber youtube.',
     philosophy17: 'Wir erkunden und gestalten Architekturen der Freiheit. <p><br></p>Wir behandeln jeden Einzelnen so wie wir von diesem behandelt werden. <p><br></p> Wir spielen für Friede, Freiheit und Gerechtigkeit.',
