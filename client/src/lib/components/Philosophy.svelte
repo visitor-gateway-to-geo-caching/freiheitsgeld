@@ -54,7 +54,14 @@ Wir haben davon abgesehen unsere Domains zensurresistent per IPFS bereitzustelle
 Da wir bereits genug Ruhm, Macht und Freiheit haben, sind wir wahrscheinlich dauerhaft für die meisten Menschen anonym. Interessierte staatliche Mitarbeiter finden momentan vielleicht ohnehin alles heraus. Vielleicht können wir auch Euch inspirieren alle Menschen mit Respekt zu behandeln und friedliebenden Menschen zukünftig wieder mehr Privatsphäre zu gönnen.
 Falls Ihr unsere Webseiten nicht akzeptieren könnt, wollt oder dürft, kontaktiert bitte unseren Domainprovider und schaltet die Domains einfach ab, da wir aus räumlichen Gründen vielleicht erst zeitverzögert auf Post reagieren können. 
 Falls <a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">das hier</a> stimmt, ist es vielleicht wirklich Zeit, dass wir uns alle gegenseitig besser und respektvoller als bisher helfen wieder zur Vernunft zu kommen. 
-Bitte probiert nicht uns irgendetwas anzuhängen, falls das Projekt tatsächlich zum Erfolg werden sollte. <p><br></p>Bis auf leicht verspätete Steuer- und GEZ Zahlungen, Autofahren mit Handy am Ohr (ohne erwischt worden zu sein), leichten Geschwindigkeitsübertretungen und Parkverstößen sind wir unsere Erachtens sehr vernünftige, friedliebende Menschen. 
+Bitte probiert nicht uns irgendetwas anzuhängen. 
+<p><br></p>
+Wir pflegen keine Kontakte zu Kriminellen. <p><br></p>
+Bis auf leicht verspätete Steuer- und GEZ Zahlungen, Autofahren mit Handy am Ohr (ohne erwischt worden zu sein), leichten Geschwindigkeitsüberschreitungen und häufigem Parken ohne Ticket 
+sind wir unseres Erachtens sehr vernünftige, friedliebende Menschen.
+<p><br></p>
+Es wäre wahrscheinlich auch töricht uns als r... extrem oder als v... theoretiker zu bezeichnen. Wir haben gute Freunde auf der ganzen Welt und wir behandeln jeden Menschen mit Respekt. 
+<p><br></p>
 
 Wir sind für Weltfrieden, Freiheit und Freundschaft.<p><br></p>
 
