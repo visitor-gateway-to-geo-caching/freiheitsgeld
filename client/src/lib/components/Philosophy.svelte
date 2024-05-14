@@ -64,9 +64,9 @@ Wir sind für Weltfrieden, Freiheit und Freundschaft.<p><br></p>
 
 <p><br><br><br></p>
 <h4>Freunde</h4>
-<h6>House of Satoshi</h6>
 <p><br></p>
 <a href="https://www.house-of-satoshi.ch/" target="_blank">
+	<h6>House of Satoshi</h6>
 	<img src="./house-of-satoshi.png" alt="">
 </a>. 
 
