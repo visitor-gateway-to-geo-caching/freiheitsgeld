@@ -160,16 +160,19 @@
 			Kaufe und Verkaufe Freiheitsgeld
 		</button>
 		{#if invest}
-			<p><br /><br /></p>
-			Bitte tausche unsere Freiheitswährungen lediglich mit friedliebenden Menschen aus, die jeden Menschen
+			<p><br /><br /><br /></p>
+			Bitte tausche unsere Freiheitswährungen lediglich mit friedliebenden Menschen, die jeden Menschen
 			auf der Welt mit Respekt behandeln.
 			<p><br /></p>
-			Falls Du noch niemanden persönlich kennst der entsprechend auch schon Freiheitsgeld hat, kannst
-			Du Freiheitsgeld z.B. bei
+			Falls Du noch niemanden kennst, der entsprechend auch schon Freiheitsgeld hat, kannst Du Freiheitsgeld
+			mit einem Browser Wallet wie
+			<a href="https://metamask.io" target="_blank">metamask.io</a> z.B. bei
 			<a href="https://app.uniswap.org/swap" target="_blank">uniswap.org</a>
 			kaufen und verkaufen.
 			<p><br /></p>
-			Dazu brauchst Du die jeweilige Smart Contract Adresse:
+			Dazu brauchst Du MATIC auf der
+			<a href="https://portal.polygon.technology/bridge" target="_blank">Polygon POS Blockchain</a>
+			sowie die Smart Contract Adressen:
 			<p><br /><br /><br /></p>
 			<a
 				href="https://polygonscan.com/token/0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7"
@@ -187,10 +190,23 @@
 				href="https://polygonscan.com/token/0xb841a4f979f9510760ecf60512e038656e68f459"
 				target="_blank">Geo Cash</a
 			>: 0xb841A4f979F9510760ecf60512e038656E68f459
-			<p><br /></p>
+			<p><br /><br /><br /></p>
 
+			<h6>Support</h6>
 			<p><br /></p>
-			<LogBook {visitorWithMobile}></LogBook>
+			Falls Du ein Neueinsteiger bist und gerade erst mal nicht weißt was hier los ist, atme tief durch.
+			<p><br /></p>
+			Wahrscheinlich braucht es ein paar oder sogar viele entspannte Anläufe.
+			<p><br /></p>
+			Das erste mal Fahrrad lerntest Du wahrscheinlich auch eher weniger durch lesen und eher mehr durch
+			geduldig mit vielen entspannten Anläufen ausprobieren.
+			<p><br /></p>
+			Falls Du nach vielen entspannten Anläufen noch nicht klar kommst, frag vielleicht
+			<a href="https://www.house-of-satoshi.ch/" target="_blank"> jemanden der sich auskennt </a>
+			und dem Du wirklich traust.
+
+			<!-- <p><br /></p>
+			<LogBook {visitorWithMobile}></LogBook> -->
 		{/if}
 
 		<p><br /><br /></p>
