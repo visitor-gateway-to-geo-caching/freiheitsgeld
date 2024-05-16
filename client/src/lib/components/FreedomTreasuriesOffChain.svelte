@@ -21,7 +21,7 @@
 	});
 </script>
 
-Bitte generiere auch Du <a href="{window.location}/freedomWallets" target="_blank"
+Bitte generiere auch Du <a href="https://freiheitsgeld.de/freedomWallets" target="_blank"
 	>Freiheitsgeldbeutel</a
 >.
 
