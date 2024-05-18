@@ -39,18 +39,18 @@ Bitte vertreten Sie stets nach bestem Wissen und Gewissen auf friedliche Art und
 <p><br /><br /><br /></p>
 <h4>Eine Bitte an die Puppenspieler</h4>
 <p><br></p>
-Bitte erkunden Sie inwieweit Freiheit für jeden, Weltfrieden und Freundschaft sowie deren friedliche Förderung tief in Ihrem Herzen auch in Ihrem Interesse ist. 
+Bitte erkunden Sie inwieweit Freiheit für jeden, Weltfrieden und Freundschaft sowie deren friedliche Förderung tief in Ihrem Herzen auch in Ihrem Interesse sind. 
 <p><br></p>
 Sie waren es wahrscheinlich gewohnt Ihren Einfluß dadurch auszubauen, dass Sie Menschen gefördert haben, die Ihnen gegenüber blind gehorsam sind und zu allem was Sie sagen Ja sagen.
 <p><br></p>
-Das birgt die Gefahr, dass Sie neue wunderschöne Konzepte erst spät erkennen und wertschätzen können, weil Sie erst spät davon erfahren.
+Das birgt die Gefahr, dass Sie neue wunderschöne Konzepte erst spät erkennen und wertschätzen können, weil Sie erst spät davon erfahren. Bitte respektieren Sie jeden und respektieren Sie Architekturen der Freiheit, des Weltfriedens und der Freundschaft.
 
 <p><br /><br /><br /></p>
 <h4>Eine Bitte an Führungskräfte</h4>
 <p><br></p>
-Eine gute Führungskraft ist jene, die mutig stets neue, vielleicht noch bessere, respektvolle, anständige Führungskräfte hervorbringt. 
+Eine gute Führungskraft bringt mutig und respektvoll jedem gegenüber stets neue, vielleicht noch bessere, respektvolle, anständige Führungskräfte hervor. 
 <p><br></p>
-Falls Sie einen Puppenspieler über sich haben, behandeln Sie auch diesen mit Respekt und reden Sie diesem nicht einfach nach dem Mund. 
+Falls Sie einen Puppenspieler über sich haben, behandeln Sie bitte auch diesen mit Respekt und reden Sie diesem nicht einfach nach dem Mund. 
 <p><br></p>
 Sowohl Sie als auch er sind ansonsten möglicherweise unnötig lange eher Teil der Problemräume und eher weniger Teil der Lösungsräume. 
 
@@ -82,13 +82,23 @@ Bitte prüfen Sie bei Interesse selbst.
 Wir haben davon abgesehen unsere Domains zensurresistent per IPFS bereitzustellen. Wir möchten klar machen,
 dass wir nicht kriminell sind sondern einfach Menschen inspirieren möchten gemeinsam Architekturen für
 Freiheit, Weltfrieden und Freundschaft zu erkunden.
+<p><br></p>
+Es ist zum aktuellen Zeitpunkt (geschrieben Mitte Mai 2024) denkbar, dass z.B unsere Domains, auch ohne ernsthafte Rechtsgrundlage <a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">zensiert</a> werden. 
+Die friedliche Emergenz von Architekturen für Freiheit, Weltfrieden und Freundschaft liegt möglicherweise in gewissem Sinne in unser aller Verantwortung.
+<p><br></p>
+Unsere Seiten dienen möglicherweise als einzelne schöne Töne in einem ganzen Orchester für Freiheit, Weltfrieden und Freundschaft.
+
+
+
 
 <p><br /><br /><br /></p>
-<h4>Spielräume</h4>
+<h4>Individuelle Freiheit</h4>
 <p><br></p>
 Unsere Projekte sind als Spielräume für Freiheit, Weltfrieden und Freundschaft zwischen allen Menschen aller Völker und Nationen zu begreifen. 
 <p><br></p>
-Zu diesem Zweck sind unsere Währungen nicht regierungsspezifisch sondern individuell. Jeder Mensch kann heutzutage seine eigene Währung gestalten und frei entscheiden welche Währungen er nutzt. Und da wir Respekt für alle Menschen überall auf der ganzen Welt haben glauben wir, dass dies auch eine gute Idee ist.
+Zu diesem Zweck sind freiheitliche Währungen nicht regierungsspezifisch sondern individuell. Jeder <a href="https://www.perlentaucher.de/buch/ruediger-safranski/einzeln-sein.html" target="_blank">einzelne</a> sollte wahrscheinlich grundsätzlich seine eigene Währung gestalten können und frei entscheiden können welche Währungen er nutzen möchte. 
+<p><br></p>
+Da wir Respekt für alle Menschen überall auf der ganzen Welt haben, glauben wir, dass dies eine gute Idee ist.
 
 
 
