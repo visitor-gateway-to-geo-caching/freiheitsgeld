@@ -77,7 +77,7 @@ Bitte prüfen Sie bei Interesse selbst.
 		class="rumble"
 		width="100%"
 		height="600"
-		src="https://rumble.com/embed/v4tgnvn/?pub=3blg3u"
+		src="https://rumble.com/embed/v11eh22/?pub=3blg3u"
 		frameborder="0"
 		allowfullscreen
 		title="Getting Ready"
@@ -120,7 +120,7 @@ Idee ist.
 		class="rumble"
 		width="100%"
 		height="600"
-		src="https://rumble.com/embed/v4tgfhc/?pub=3blg3u"
+		src="https://rumble.com/embed/v4tgnvn/?pub=3blg3u"
 		frameborder="0"
 		allowfullscreen
 		title="Freedom of Speech"
