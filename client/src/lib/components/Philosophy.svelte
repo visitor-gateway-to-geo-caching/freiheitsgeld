@@ -38,7 +38,7 @@ Ihres jeweiligen Volkes. Das ist im ursprünglichen Sinne Ihr Job.
 	/>
 </div>
 <p><br /><br /><br /></p>
-<h4>Eine Bitte an die Puppenspieler</h4>
+<h4>Eine Bitte an Puppenspieler</h4>
 <p><br /></p>
 Bitte erkunden Sie inwieweit Freiheit für jeden, Weltfrieden und Freundschaft sowie deren friedliche
 Förderung tief in Ihrem Herzen auch in Ihrem Interesse sind.
@@ -89,7 +89,7 @@ Wir haben davon abgesehen unsere Domains zensurresistent per IPFS bereitzustelle
 dass wir nicht kriminell sind sondern einfach Menschen inspirieren möchten gemeinsam Architekturen für
 Freiheit, Weltfrieden und Freundschaft zu erkunden.
 <p><br /></p>
-Es ist zum aktuellen Zeitpunkt (geschrieben Mitte Mai 2024) denkbar, dass z.B unsere Domains, auch ohne
+Es ist zum aktuellen Zeitpunkt (geschrieben Mitte Mai 2024) <a href="https://www.youtube.com/watch?v=jq8HHyq_izc" target="_blank">denkbar</a>, dass z.B unsere Domains, auch ohne
 ernsthafte Rechtsgrundlage
 <a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">zensiert </a>
 werden. Die friedliche Emergenz von Architekturen für Freiheit, Weltfrieden und Freundschaft liegt möglicherweise
@@ -120,7 +120,7 @@ Idee ist.
 		class="rumble"
 		width="100%"
 		height="600"
-		src="https://rumble.com/embed/v4tgfhc/?pub=3blg3u"
+		src="https://rumble.com/embed/v4tgnvn/?pub=3blg3u"
 		frameborder="0"
 		allowfullscreen
 		title="Freedom of Speech"
