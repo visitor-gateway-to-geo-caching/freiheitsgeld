@@ -1,7 +1,9 @@
 <script>
 </script>
 
-Wir wünschen uns Weltfrieden, Freiheit und Freundschaft. <p><br /></p>
+<p><br /></p>
+Wir wünschen uns Weltfrieden, Freiheit und Freundschaft.
+<p><br /></p>
 Wir laden alle ein jeden Einzelnen auf der Welt mit Respekt zu behandeln.
 <p><br /></p>
 Wir laden alle ein Architekturen für Freiheit, Weltfrieden und Freundschaft mitzugestalten.
@@ -10,21 +12,16 @@ Wir laden alle ein Architekturen für Freiheit, Weltfrieden und Freundschaft mit
 <p><br /></p>
 
 <h4>Eine Bitte an Politiker</h4>
+<p><br></p>
 Bitte erwägen Sie eine mögliche ehrliche und respektvolle Zusammenarbeit mit Menschen, die etwas von
-Architekturen für Freiheit, Weltfrieden und Freundschaft<a
-	href="https://www.youtube.com/watch?v=SGWIh9yzg-I"
-	target="_blank">verstehen</a
->.
+Architekturen für Freiheit, Weltfrieden und Freundschaft
+<a href="https://www.youtube.com/watch?v=SGWIh9yzg-I" target="_blank">verstehen</a>.
 <p><br /></p>
 Wir nutzen manchmal vielleicht eine sehr direkte Sprache. Bitte begreifen Sie das nicht als Beleidigung.
 Wir möchten friedlich Freiheit, Weltfrieden und Freundschaft fördern.
 <p><br /></p>
-Monopolistische Ansätze haben vielleicht ausgedient. Vielleicht wird es Zeit für Freiheit, Weltfrieden
-und Freundschaft. Wir finden<a href="https://privacy-is-not-a-crime.de" target="_blank"
-	>Privatsphäre ist kein Verbrechen</a
->
-vielmehr scheint sie einer der Garanten für Freiheit, Weltfrieden und Freundschaft. Bitte lassen Sie
-dem eine Chance.
+Bitte vertreten Sie stets nach bestem Wissen und Gewissen auf friedliche Art und Weise die Interessen Ihres jeweiligen Volkes. Das ist im ursprünglichen Sinne Ihr Job.
+<p><br></p> 
 
 <p><br /><br /><br /></p>
 
@@ -40,9 +37,35 @@ dem eine Chance.
 	/>
 </div>
 <p><br /><br /><br /></p>
+<h4>Eine Bitte an die Puppenspieler</h4>
+<p><br></p>
+Bitte erkunden Sie inwieweit Freiheit für jeden, Weltfrieden und Freundschaft sowie deren friedliche Förderung tief in Ihrem Herzen auch in Ihrem Interesse ist. 
+<p><br></p>
+Sie waren es wahrscheinlich gewohnt Ihren Einfluß dadurch auszubauen, dass Sie Menschen gefördert haben, die Ihnen gegenüber blind gehorsam sind und zu allem was Sie sagen Ja sagen.
+<p><br></p>
+Das birgt die Gefahr, dass Sie neue wunderschöne Konzepte erst spät erkennen und wertschätzen können, weil Sie erst spät davon erfahren.
+
+<p><br /><br /><br /></p>
+<h4>Eine Bitte an Führungskräfte</h4>
+<p><br></p>
+Eine gute Führungskraft ist jene, die mutig stets neue, vielleicht noch bessere, respektvolle, anständige Führungskräfte hervorbringt. 
+<p><br></p>
+Falls Sie einen Puppenspieler über sich haben, behandeln Sie auch diesen mit Respekt und reden Sie diesem nicht einfach nach dem Mund. 
+<p><br></p>
+Sowohl Sie als auch er sind ansonsten möglicherweise unnötig lange eher Teil der Problemräume und eher weniger Teil der Lösungsräume. 
+
+
+
+<p><br /><br /><br /></p>
 
 <h4>History</h4>
-<p><br /></p>
+<p></p>
+Wir wissen nicht genau wieviele von den gemachten Aussagen 100 prozentig korrekt sind. 
+<p><br></p>
+Bitte prüfen Sie bei Interesse selbst. 
+
+<p><br></p>
+
 <div class="iframediv">
 	<iframe
 		class="rumble"
@@ -59,6 +82,16 @@ dem eine Chance.
 Wir haben davon abgesehen unsere Domains zensurresistent per IPFS bereitzustellen. Wir möchten klar machen,
 dass wir nicht kriminell sind sondern einfach Menschen inspirieren möchten gemeinsam Architekturen für
 Freiheit, Weltfrieden und Freundschaft zu erkunden.
+
+<p><br /><br /><br /></p>
+<h4>Spielräume</h4>
+<p><br></p>
+Unsere Projekte sind als Spielräume für Freiheit, Weltfrieden und Freundschaft zwischen allen Menschen aller Völker und Nationen zu begreifen. 
+<p><br></p>
+Zu diesem Zweck sind unsere Währungen nicht regierungsspezifisch sondern individuell. Jeder Mensch kann heutzutage seine eigene Währung gestalten und frei entscheiden welche Währungen er nutzt. Und da wir Respekt für alle Menschen überall auf der ganzen Welt haben glauben wir, dass dies auch eine gute Idee ist.
+
+
+
 <p><br /><br /><br /></p>
 <h4>Pseudonyme Details</h4>
 Da wir bereits genug Ruhm, Macht und Freiheit haben, sind wir wahrscheinlich dauerhaft für die meisten
@@ -66,7 +99,8 @@ Menschen anonym. Interessierte staatliche Mitarbeiter finden momentan vielleicht
 Vielleicht können wir auch Euch inspirieren alle Menschen mit Respekt zu behandeln und friedliebenden
 Menschen zukünftig wieder mehr Privatsphäre zu gönnen. Falls Ihr unsere Webseiten nicht akzeptieren könnt,
 wollt oder dürft, kontaktiert bitte unseren Domainprovider und schaltet die Domains einfach ab, da wir
-aus räumlichen Gründen vielleicht erst zeitverzögert auf Post reagieren können. Falls<a
+aus räumlichen Gründen vielleicht erst zeitverzögert auf Post reagieren können. Falls
+<a
 	href="https://www.youtube.com/watch?v=oPZK3l93LyI"
 	target="_blank">das hier</a
 >
@@ -146,6 +180,7 @@ sind <a href="https://github.com/FreiheitsGeld/freiheitsgeld/" target="_blank"> 
 	<a href="https://github.com/FreiheitsGeld/freiheitsgeld/issues/new" target="_blank">GitHub</a> beisteuern.
 	Zusätzlich kannst Du auch auch die passende Lösung per Pull Request bereitstellen.
 </p>
+<p><br></p>
 <div id="impressum">
 	<h4>Impressum</h4>
 	Es handelt sich bei unseren Projekten nicht um gewerbliche Projekte sondern um Open Source Bildungsprojekte
@@ -158,18 +193,19 @@ sind <a href="https://github.com/FreiheitsGeld/freiheitsgeld/" target="_blank"> 
 	<h6>Keine Abmahnung ohne Kontakt!</h6>
 	<br />
 	Sollte der Inhalt fremde Rechte Dritter oder gesetzliche Bestimmungen verletzen, kontaktieren Sie uns
-	ohne Kostennote. Wir stellen nach bestem Wissen und Gewissen sicher, dass zurecht beanstandete Inhalte unverzüglich entfernt werden, ohne
-	dass von Ihrer Seite die Einschaltung eines Rechtsbeistandes erforderlich ist. Dennoch von Ihnen ohne
-	vorherige Kontaktaufnahme ausgelöste Kosten werden im Sinne der Schadensminderungspflicht zurückgewiesen
-	und gegebenenfalls wird Gegenklage wegen Verletzung vorgenannter Bestimmungen eingereicht.
+	ohne Kostennote. Wir stellen nach bestem Wissen und Gewissen sicher, dass zurecht beanstandete Inhalte
+	unverzüglich entfernt werden, ohne dass von Ihrer Seite die Einschaltung eines Rechtsbeistandes erforderlich
+	ist. Dennoch von Ihnen ohne vorherige Kontaktaufnahme ausgelöste Kosten werden im Sinne der Schadensminderungspflicht
+	zurückgewiesen und gegebenenfalls wird Gegenklage wegen Verletzung vorgenannter Bestimmungen eingereicht.
 
 	<p><br /></p>
 	Sofern Sie ein Abmahnanwalt sind und bereit sind einer möglicherweise noch wertvolleren Berufung zu
 	folgen, laden wir Sie ein kostenlos für uns zu prüfen inwieweit es rechtlich zulässig ist ein dezentrales,
-	smart contract basiertes Content Moderationssystem für das hier eingebettete 
+	smart contract basiertes Content Moderationssystem für das hier eingebettete
 	<a href="https://freedomlog.de" target="_blank">Freedomlog.de</a> einzuführen.
-	<p><br></p>
-	Prototypisch haben wir ein solches dezentrales Content Moderationssystem im Rahmen des <a
+	<p><br /></p>
+	Prototypisch haben wir ein solches dezentrales Content Moderationssystem im Rahmen des
+	<a
 		href="https://github.com/moniquebaumann/freedom-tribunal/blob/main/freedom-tribunal.sol"
 		target="_blank">FreedomTribunal</a
 	> Smart Contract's implementiert.
