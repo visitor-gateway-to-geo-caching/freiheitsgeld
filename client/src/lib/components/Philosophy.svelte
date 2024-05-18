@@ -40,36 +40,29 @@ Ihres jeweiligen Volkes. Das ist im ursprünglichen Sinne Ihr Job.
 <p><br /><br /><br /></p>
 <h4>Eine Bitte an Puppenspieler</h4>
 <p><br /></p>
-Bitte erkunden Sie inwieweit Freiheit für jeden, Weltfrieden und Freundschaft sowie deren friedliche
-Förderung tief in Ihrem Herzen auch in Ihrem Interesse sind.
+Bitte erkunden Sie inwieweit Freiheit für jeden, Weltfriede und Freundschaft sowie deren friedliche
+Emergenz tief in Ihrem Herzen auch in Ihrem Interesse sind.
 <p><br /></p>
-Sie waren es wahrscheinlich gewohnt Ihren Einfluß dadurch auszubauen, dass Sie Menschen gefördert haben,
+Sie waren es wahrscheinlich gewohnt Ihren Einfluß auszubauen indem Sie Menschen beförderten,
 die Ihnen gegenüber blind gehorsam sind und zu allem was Sie sagen Ja sagen.
 <p><br /></p>
-Das birgt die Gefahr, dass Sie neue wunderschöne Konzepte erst spät erkennen und wertschätzen können,
-weil Sie erst spät davon erfahren. Bitte respektieren Sie jeden und respektieren Sie Architekturen der
-Freiheit, des Weltfriedens und der Freundschaft.
+Das birgt die Gefahr, dass Sie neue gute Konzepte erst spät erkennen und wertschätzen können weil Sie erst spät davon erfahren. 
+
+
 
 <p><br /><br /><br /></p>
-<h4>Eine Bitte an Führungskräfte</h4>
+<h4>Eine Bitte an Alle</h4>
 <p><br /></p>
-Eine gute Führungskraft bringt mutig und respektvoll jedem gegenüber stets neue, vielleicht noch bessere,
-respektvolle, anständige Führungskräfte hervor.
-<p><br /></p>
-Falls Sie einen Puppenspieler über sich haben, behandeln Sie bitte auch diesen mit Respekt und reden
-Sie diesem nicht einfach nach dem Mund.
-<p><br /></p>
-Sowohl Sie als auch er sind ansonsten möglicherweise unnötig lange eher Teil der Problemräume und eher
-weniger Teil der Lösungsräume.
-
+Bitte behandelt jeden mit Respekt. <p><br></p> 
+Wenn jeder mitmacht, haben wir Weltfrieden noch vor morgen früh. <p><br></p>
+Jeder kann und sollte vielleicht bei sich selbst beginnen.
 <p><br /><br /><br /></p>
 
 <h4>Geschichte</h4>
 <p></p>
-Wir wissen nicht genau wieviele von den gemachten Aussagen 100 prozentig korrekt sind.
+Wir wissen nicht genau wieviele von den Aussagen 100 prozentig korrekt sind.
 <p><br /></p>
 Bitte prüfen Sie bei Interesse selbst.
-
 <p><br /></p>
 
 <div class="iframediv">
