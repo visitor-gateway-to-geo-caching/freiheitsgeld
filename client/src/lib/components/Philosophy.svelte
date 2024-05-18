@@ -43,11 +43,11 @@ Ihres jeweiligen Volkes. Das ist im ursprünglichen Sinne Ihr Job.
 Bitte erkunden Sie inwieweit Freiheit für jeden, Weltfriede und Freundschaft sowie deren friedliche
 Emergenz tief in Ihrem Herzen auch in Ihrem Interesse sind.
 <p><br /></p>
-Sie waren es wahrscheinlich gewohnt Ihren Einfluß dadurch auszubauen, dass Sie Menschen gefördert haben,
+Sie waren es wahrscheinlich gewohnt Ihren Einfluß auszubauen indem Sie Menschen beförderten,
 die Ihnen gegenüber blind gehorsam sind und zu allem was Sie sagen Ja sagen.
 <p><br /></p>
-Das birgt die Gefahr, dass Sie neue wunderschöne Konzepte erst spät erkennen und wertschätzen können weil Sie erst spät davon erfahren. 
-Ihre sogenannten Führungskräfte helfen bei der Erkundung von wirklich geilen Ansätzen ja selten bis nie. Wir schätzen das wissen auch Sie.
+Das birgt die Gefahr, dass Sie neue gute Konzepte erst spät erkennen und wertschätzen können weil Sie erst spät davon erfahren. 
+
 
 
 <p><br /><br /><br /></p>
