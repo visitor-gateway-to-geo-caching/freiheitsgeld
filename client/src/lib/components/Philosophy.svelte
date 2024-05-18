@@ -89,13 +89,15 @@ Wir haben davon abgesehen unsere Domains zensurresistent per IPFS bereitzustelle
 dass wir nicht kriminell sind sondern einfach Menschen inspirieren möchten gemeinsam Architekturen für
 Freiheit, Weltfrieden und Freundschaft zu erkunden.
 <p><br /></p>
-Es ist zum aktuellen Zeitpunkt (geschrieben Mitte Mai 2024) <a href="https://www.youtube.com/watch?v=jq8HHyq_izc" target="_blank">denkbar</a>, dass z.B unsere Domains, auch ohne
-ernsthafte Rechtsgrundlage
+Es ist zum aktuellen Zeitpunkt (geschrieben Mitte Mai 2024)<a
+	href="https://www.youtube.com/watch?v=jq8HHyq_izc"
+	target="_blank">denkbar</a
+>, dass z.B unsere Domains, auch ohne ernsthafte Rechtsgrundlage
 <a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">zensiert </a>
 werden. Die friedliche Emergenz von Architekturen für Freiheit, Weltfrieden und Freundschaft liegt möglicherweise
 in gewissem Sinne in unser aller Verantwortung.
 <p><br /></p>
-Unsere Seiten dienen möglicherweise als einzelne schöne Töne in einem ganzen Orchester für Freiheit,
+Unsere Experimente dienen möglicherweise als einzelne schöne Töne in einem ganzen Orchester für Freiheit,
 Weltfrieden und Freundschaft.
 
 <p><br /><br /><br /></p>
@@ -120,7 +122,7 @@ Idee ist.
 		class="rumble"
 		width="100%"
 		height="600"
-		src="https://rumble.com/embed/v4tgnvn/?pub=3blg3u"
+		src="https://rumble.com/embed/v4tgtnx/?pub=3blg3u"
 		frameborder="0"
 		allowfullscreen
 		title="Freedom of Speech"
