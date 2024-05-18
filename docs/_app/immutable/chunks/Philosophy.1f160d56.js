@@ -174,7 +174,7 @@ Wir haben davon abgesehen unsere Domains zensurresistent per IPFS bereitzustelle
 dass wir nicht kriminell sind sondern einfach Menschen inspirieren möchten gemeinsam Architekturen für
 Freiheit, Weltfrieden und Freundschaft zu erkunden.
 `),ne=l(e,"P",{"data-svelte-h":!0}),s(ne)!=="svelte-pntvnr"&&(ne.innerHTML=In),ft=d(e,`
-Es ist zum aktuellen Zeitpunkt (geschrieben Mitte Mai 2024)`),p=l(e,"A",{href:!0,target:!0,"data-svelte-h":!0}),s(p)!=="svelte-yky1mm"&&(p.textContent=yn),mt=d(e,`, dass z.B unsere Domains, auch ohne ernsthafte Rechtsgrundlage
+Es ist zum aktuellen Zeitpunkt (geschrieben Mitte Mai 2024)`),p=l(e,"A",{href:!0,target:!0,"data-svelte-h":!0}),s(p)!=="svelte-s5zdmn"&&(p.textContent=yn),mt=d(e,`, dass z.B unsere Domains, auch ohne ernsthafte Rechtsgrundlage
 `),b=l(e,"A",{href:!0,target:!0,"data-svelte-h":!0}),s(b)!=="svelte-bgahl2"&&(b.textContent=An),vt=d(e,`
 werden. Die friedliche Emergenz von Architekturen für Freiheit, Weltfrieden und Freundschaft liegt möglicherweise
 in gewissem Sinne in unser aller Verantwortung.

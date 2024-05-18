@@ -91,7 +91,9 @@ Freiheit, Weltfrieden und Freundschaft zu erkunden.
 <p><br /></p>
 Es ist zum aktuellen Zeitpunkt (geschrieben Mitte Mai 2024)<a
 	href="https://www.youtube.com/watch?v=jq8HHyq_izc"
-	target="_blank">denkbar</a
+	target="_blank"
+>
+	denkbar</a
 >, dass z.B unsere Domains, auch ohne ernsthafte Rechtsgrundlage
 <a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">zensiert </a>
 werden. Die friedliche Emergenz von Architekturen für Freiheit, Weltfrieden und Freundschaft liegt möglicherweise
