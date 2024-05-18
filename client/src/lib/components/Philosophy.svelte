@@ -12,7 +12,7 @@ Wir laden alle ein Architekturen für Freiheit, Weltfrieden und Freundschaft mit
 <p><br /></p>
 
 <h4>Eine Bitte an Politiker</h4>
-<p><br></p>
+<p><br /></p>
 Bitte erwägen Sie eine mögliche ehrliche und respektvolle Zusammenarbeit mit Menschen, die etwas von
 Architekturen für Freiheit, Weltfrieden und Freundschaft
 <a href="https://www.youtube.com/watch?v=SGWIh9yzg-I" target="_blank">verstehen</a>.
@@ -20,8 +20,9 @@ Architekturen für Freiheit, Weltfrieden und Freundschaft
 Wir nutzen manchmal vielleicht eine sehr direkte Sprache. Bitte begreifen Sie das nicht als Beleidigung.
 Wir möchten friedlich Freiheit, Weltfrieden und Freundschaft fördern.
 <p><br /></p>
-Bitte vertreten Sie stets nach bestem Wissen und Gewissen auf friedliche Art und Weise die Interessen Ihres jeweiligen Volkes. Das ist im ursprünglichen Sinne Ihr Job.
-<p><br></p> 
+Bitte vertreten Sie stets nach bestem Wissen und Gewissen auf friedliche Art und Weise die Interessen
+Ihres jeweiligen Volkes. Das ist im ursprünglichen Sinne Ihr Job.
+<p><br /></p>
 
 <p><br /><br /><br /></p>
 
@@ -38,33 +39,38 @@ Bitte vertreten Sie stets nach bestem Wissen und Gewissen auf friedliche Art und
 </div>
 <p><br /><br /><br /></p>
 <h4>Eine Bitte an die Puppenspieler</h4>
-<p><br></p>
-Bitte erkunden Sie inwieweit Freiheit für jeden, Weltfrieden und Freundschaft sowie deren friedliche Förderung tief in Ihrem Herzen auch in Ihrem Interesse sind. 
-<p><br></p>
-Sie waren es wahrscheinlich gewohnt Ihren Einfluß dadurch auszubauen, dass Sie Menschen gefördert haben, die Ihnen gegenüber blind gehorsam sind und zu allem was Sie sagen Ja sagen.
-<p><br></p>
-Das birgt die Gefahr, dass Sie neue wunderschöne Konzepte erst spät erkennen und wertschätzen können, weil Sie erst spät davon erfahren. Bitte respektieren Sie jeden und respektieren Sie Architekturen der Freiheit, des Weltfriedens und der Freundschaft.
+<p><br /></p>
+Bitte erkunden Sie inwieweit Freiheit für jeden, Weltfrieden und Freundschaft sowie deren friedliche
+Förderung tief in Ihrem Herzen auch in Ihrem Interesse sind.
+<p><br /></p>
+Sie waren es wahrscheinlich gewohnt Ihren Einfluß dadurch auszubauen, dass Sie Menschen gefördert haben,
+die Ihnen gegenüber blind gehorsam sind und zu allem was Sie sagen Ja sagen.
+<p><br /></p>
+Das birgt die Gefahr, dass Sie neue wunderschöne Konzepte erst spät erkennen und wertschätzen können,
+weil Sie erst spät davon erfahren. Bitte respektieren Sie jeden und respektieren Sie Architekturen der
+Freiheit, des Weltfriedens und der Freundschaft.
 
 <p><br /><br /><br /></p>
 <h4>Eine Bitte an Führungskräfte</h4>
-<p><br></p>
-Eine gute Führungskraft bringt mutig und respektvoll jedem gegenüber stets neue, vielleicht noch bessere, respektvolle, anständige Führungskräfte hervor. 
-<p><br></p>
-Falls Sie einen Puppenspieler über sich haben, behandeln Sie bitte auch diesen mit Respekt und reden Sie diesem nicht einfach nach dem Mund. 
-<p><br></p>
-Sowohl Sie als auch er sind ansonsten möglicherweise unnötig lange eher Teil der Problemräume und eher weniger Teil der Lösungsräume. 
-
-
+<p><br /></p>
+Eine gute Führungskraft bringt mutig und respektvoll jedem gegenüber stets neue, vielleicht noch bessere,
+respektvolle, anständige Führungskräfte hervor.
+<p><br /></p>
+Falls Sie einen Puppenspieler über sich haben, behandeln Sie bitte auch diesen mit Respekt und reden
+Sie diesem nicht einfach nach dem Mund.
+<p><br /></p>
+Sowohl Sie als auch er sind ansonsten möglicherweise unnötig lange eher Teil der Problemräume und eher
+weniger Teil der Lösungsräume.
 
 <p><br /><br /><br /></p>
 
-<h4>History</h4>
+<h4>Geschichte</h4>
 <p></p>
-Wir wissen nicht genau wieviele von den gemachten Aussagen 100 prozentig korrekt sind. 
-<p><br></p>
-Bitte prüfen Sie bei Interesse selbst. 
+Wir wissen nicht genau wieviele von den gemachten Aussagen 100 prozentig korrekt sind.
+<p><br /></p>
+Bitte prüfen Sie bei Interesse selbst.
 
-<p><br></p>
+<p><br /></p>
 
 <div class="iframediv">
 	<iframe
@@ -82,25 +88,44 @@ Bitte prüfen Sie bei Interesse selbst.
 Wir haben davon abgesehen unsere Domains zensurresistent per IPFS bereitzustellen. Wir möchten klar machen,
 dass wir nicht kriminell sind sondern einfach Menschen inspirieren möchten gemeinsam Architekturen für
 Freiheit, Weltfrieden und Freundschaft zu erkunden.
-<p><br></p>
-Es ist zum aktuellen Zeitpunkt (geschrieben Mitte Mai 2024) denkbar, dass z.B unsere Domains, auch ohne ernsthafte Rechtsgrundlage <a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">zensiert</a> werden. 
-Die friedliche Emergenz von Architekturen für Freiheit, Weltfrieden und Freundschaft liegt möglicherweise in gewissem Sinne in unser aller Verantwortung.
-<p><br></p>
-Unsere Seiten dienen möglicherweise als einzelne schöne Töne in einem ganzen Orchester für Freiheit, Weltfrieden und Freundschaft.
-
-
-
+<p><br /></p>
+Es ist zum aktuellen Zeitpunkt (geschrieben Mitte Mai 2024) denkbar, dass z.B unsere Domains, auch ohne
+ernsthafte Rechtsgrundlage
+<a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">zensiert </a>
+werden. Die friedliche Emergenz von Architekturen für Freiheit, Weltfrieden und Freundschaft liegt möglicherweise
+in gewissem Sinne in unser aller Verantwortung.
+<p><br /></p>
+Unsere Seiten dienen möglicherweise als einzelne schöne Töne in einem ganzen Orchester für Freiheit,
+Weltfrieden und Freundschaft.
 
 <p><br /><br /><br /></p>
 <h4>Individuelle Freiheit</h4>
-<p><br></p>
-Unsere Projekte sind als Spielräume für Freiheit, Weltfrieden und Freundschaft zwischen allen Menschen aller Völker und Nationen zu begreifen. 
-<p><br></p>
-Zu diesem Zweck sind freiheitliche Währungen nicht regierungsspezifisch sondern individuell. Jeder <a href="https://www.perlentaucher.de/buch/ruediger-safranski/einzeln-sein.html" target="_blank">einzelne</a> sollte wahrscheinlich grundsätzlich seine eigene Währung gestalten können und frei entscheiden können welche Währungen er nutzen möchte. 
-<p><br></p>
-Da wir Respekt für alle Menschen überall auf der ganzen Welt haben, glauben wir, dass dies eine gute Idee ist.
+<p><br /></p>
+Unsere Projekte sind als Spielräume für Freiheit, Weltfrieden und Freundschaft zwischen allen Menschen
+aller Völker und Nationen zu begreifen.
+<p><br /></p>
+Zu diesem Zweck sind freiheitliche Währungen nicht regierungsspezifisch sondern individuell. Jeder
+<a href="https://www.perlentaucher.de/buch/ruediger-safranski/einzeln-sein.html" target="_blank"
+	>einzelne</a
+>
+sollte wahrscheinlich grundsätzlich seine eigene Währung gestalten können und frei entscheiden können
+welche Währungen er nutzen möchte.
+<p><br /></p>
+Da wir Respekt für alle Menschen überall auf der ganzen Welt haben, glauben wir, dass dies eine gute
+Idee ist.
 
-
+<p><br /><br /><br /></p>
+<div class="iframediv">
+	<iframe
+		class="rumble"
+		width="100%"
+		height="600"
+		src="https://rumble.com/embed/v4tgfhc/?pub=3blg3u"
+		frameborder="0"
+		allowfullscreen
+		title="Freedom of Speech"
+	/>
+</div>
 
 <p><br /><br /><br /></p>
 <h4>Pseudonyme Details</h4>
@@ -110,10 +135,7 @@ Vielleicht können wir auch Euch inspirieren alle Menschen mit Respekt zu behand
 Menschen zukünftig wieder mehr Privatsphäre zu gönnen. Falls Ihr unsere Webseiten nicht akzeptieren könnt,
 wollt oder dürft, kontaktiert bitte unseren Domainprovider und schaltet die Domains einfach ab, da wir
 aus räumlichen Gründen vielleicht erst zeitverzögert auf Post reagieren können. Falls
-<a
-	href="https://www.youtube.com/watch?v=oPZK3l93LyI"
-	target="_blank">das hier</a
->
+<a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">das hier</a>
 stimmt, ist es vielleicht wirklich Zeit, dass wir uns alle gegenseitig besser und respektvoller als bisher
 helfen wieder zur Vernunft zu kommen. Bitte probiert nicht uns irgendetwas anzuhängen.
 <p><br /></p>
@@ -190,7 +212,7 @@ sind <a href="https://github.com/FreiheitsGeld/freiheitsgeld/" target="_blank"> 
 	<a href="https://github.com/FreiheitsGeld/freiheitsgeld/issues/new" target="_blank">GitHub</a> beisteuern.
 	Zusätzlich kannst Du auch auch die passende Lösung per Pull Request bereitstellen.
 </p>
-<p><br></p>
+<p><br /></p>
 <div id="impressum">
 	<h4>Impressum</h4>
 	Es handelt sich bei unseren Projekten nicht um gewerbliche Projekte sondern um Open Source Bildungsprojekte
