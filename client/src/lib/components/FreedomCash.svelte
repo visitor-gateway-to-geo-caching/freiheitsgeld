@@ -198,7 +198,7 @@
 			<p><br /></p>
 			Wahrscheinlich braucht es ein paar oder sogar viele entspannte Anläufe.
 			<p><br /></p>
-			Das erste mal Fahrrad lerntest Du wahrscheinlich auch eher weniger durch lesen und eher mehr durch
+			Fahrrad fahren lerntest Du wahrscheinlich auch eher weniger durch lesen und eher mehr durch
 			geduldig mit vielen entspannten Anläufen ausprobieren.
 			<p><br /></p>
 			Falls Du nach vielen entspannten Anläufen noch nicht klar kommst, frag vielleicht
