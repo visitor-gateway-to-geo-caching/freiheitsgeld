@@ -1,9 +1,10 @@
 <script>
 	import { onMount } from 'svelte';
-	import Videos from './Videos.svelte';
+	import Video from './Video.svelte';
 	import FreedomWallets from './FreedomWallets.svelte';
 	import LogBook from './LogBook.svelte';
 	import Philosophy from './Philosophy.svelte';
+	import VideosGrid from './Videos-Grid.svelte';
 
 	let visitorHasBrowserWallet = false;
 	let invest;
@@ -26,7 +27,32 @@
 </script>
 
 <section class="text-center">
-	Lasst uns einander mit Respekt behandeln.
+	<p><br /></p>
+	Bitte behandelt jeden mit Respekt.
+
+	<p><br /></p>
+	Wir tragen
+	<a
+		href="https://www.geckoterminal.com/polygon_pos/pools/0xf1d949b014da81a14986c9c3900151a54c0393b9"
+		target="_blank">Freiheit</a
+	>,
+	<a
+		href="https://www.geckoterminal.com/polygon_pos/pools/0xd38acec059220e8ce1a50783490b73a4a5422368"
+		target="_blank">Friede</a
+	>
+	und Freundschaft in die Welt.
+	<p><br /></p>
+	Wir erkunden Architekturen der Freiheit mit
+	<a href="https://de.wikipedia.org/wiki/Geocaching" target="_blank">Geo Caching</a>.
+
+	<p><br /><br /><br /></p>
+	<div class="emma">
+		<object
+			title="Emma"
+			data="https://rumble.com/embed/v4tuakn/?pub=3blg3u"
+		>
+		</object>
+	</div>
 
 	<p><br /></p>
 	<h4>Architekturen der Freiheit</h4>
@@ -77,7 +103,7 @@
 
 	<p><br /><br /><br /></p>
 	<div class="content">
-		<Videos displayAmount={3}></Videos>
+		<VideosGrid displayAmount={3}></VideosGrid>
 	</div>
 
 	<div class="content">
@@ -198,8 +224,8 @@
 			<p><br /></p>
 			Wahrscheinlich braucht es ein paar oder sogar viele entspannte Anläufe.
 			<p><br /></p>
-			Fahrrad fahren lerntest Du wahrscheinlich auch eher weniger durch lesen und eher mehr durch
-			geduldig mit vielen entspannten Anläufen ausprobieren.
+			Fahrrad fahren lerntest Du wahrscheinlich auch eher weniger durch lesen und eher mehr durch geduldig
+			mit vielen entspannten Anläufen ausprobieren.
 			<p><br /></p>
 			Falls Du nach vielen entspannten Anläufen noch nicht klar kommst, frag vielleicht
 			<a href="https://www.house-of-satoshi.ch/" target="_blank"> jemanden der sich auskennt </a>
@@ -271,4 +297,14 @@
 	tr:nth-child(even) {
 		background-color: #dddddd;
 	}
+	object {
+		width: 100%;
+		height: calc((100vw * 9) / 16);
+	}
+	/* .emma {
+		width: 100%;
+  height: calc((100vw*9) /16);
+		margin-left: auto;
+		margin-right: auto;
+	} */
 </style>

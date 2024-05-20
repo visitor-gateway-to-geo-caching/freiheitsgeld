@@ -6,21 +6,15 @@
 	export let displayAmount;
 
 	let displayedFirstTreasuries = [];
-	let displayedFirstExchanges = [];
 	let ready;
 
 	onMount(() => {
 		displayedFirstTreasuries = getRandomEntries(offChainTreasuries, displayAmount);
-		// displayedFirstExchanges = getRandomEntries(firstFreedomExchangesEmbedLinks, displayAmount); will be released later
 		ready = true;
 	});
 </script>
 
 {#if ready}
-<a href="https://rumble.com/c/c-5722872" target="_blank">
-	<button>Mehr Videos</button>
-</a>
-<p><br /></p>
 	<div class="grid-container">
 		{#each displayedFirstTreasuries as entry}
 			<div class="item1">
@@ -29,6 +23,10 @@
 		{/each}
 	</div>
 {/if}
+<p><br /></p>
+<a href="https://rumble.com/c/c-5722872" target="_blank">
+	<button>Mehr Videos</button>
+</a>
 
 <style>
 	.grid-container {
