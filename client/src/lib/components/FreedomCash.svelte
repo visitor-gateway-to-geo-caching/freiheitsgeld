@@ -47,22 +47,17 @@
 
 	<p><br /><br /><br /></p>
 	<div class="emma">
-		<object
-			title="Emma"
-			data="https://rumble.com/embed/v4tuakn/?pub=3blg3u"
-		>
-		</object>
+		<object title="Emma" data="https://rumble.com/embed/v4tuakn/?pub=3blg3u"> </object>
 	</div>
 
 	<p><br /></p>
 	<h4>Architekturen der Freiheit</h4>
 
-	Wir wissen auch noch nicht genau welches aktuell die besten Architekturen für Freiheit,
-	Weltfrieden und Freundschaft sind.
+	Wir glauben an <a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">Gewaltenteilung</a>.
 	<p><br /></p>
-	Wir haben lediglich einige Möglichkeiten im Angebot, welche als Inspiration dienen können.
+	Wir glauben an <a href="https://rumble.com/v4y53lt-chroniken-der-plandemie-legen-eine-aufarbeitung-der-verbrechen-nahe..html" target="_blank">das Volk</a> als Souverän.
 	<p><br /></p>
-	Unsere experimentellen Währungen sind beispielsweise
+	Unsere experimentellen Währungen sind 
 	<a
 		href="https://www.geckoterminal.com/polygon_pos/pools/0xf1d949b014da81a14986c9c3900151a54c0393b9"
 		target="_blank">Freiheit</a
