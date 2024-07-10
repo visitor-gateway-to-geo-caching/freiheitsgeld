@@ -17,8 +17,8 @@ Bitte erwägen Sie eine mögliche ehrliche und respektvolle Zusammenarbeit mit M
 Architekturen für Freiheit, Weltfrieden und Freundschaft
 <a href="https://www.youtube.com/watch?v=SGWIh9yzg-I" target="_blank">verstehen</a>.
 <p><br /></p>
-Wir nutzen manchmal vielleicht eine sehr direkte Sprache. Bitte begreifen Sie das nicht als Beleidigung.
-Wir möchten friedlich Freiheit, Weltfrieden und Freundschaft fördern.
+Wir nutzen eine klare Sprache. Bitte begreifen Sie das nicht als Beleidigung. <br>
+Wir fördern friedlich Freiheit, Weltfrieden und Freundschaft.
 <p><br /></p>
 Bitte vertreten Sie stets nach bestem Wissen und Gewissen auf friedliche Art und Weise die Interessen
 Ihres jeweiligen Volkes. Das ist im ursprünglichen Sinne Ihr Job.

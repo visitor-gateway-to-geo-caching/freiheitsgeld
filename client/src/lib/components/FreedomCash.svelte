@@ -1,8 +1,6 @@
 <script>
 	import { onMount } from 'svelte';
-	import Video from './Video.svelte';
 	import FreedomWallets from './FreedomWallets.svelte';
-	import LogBook from './LogBook.svelte';
 	import Philosophy from './Philosophy.svelte';
 	import VideosGrid from './Videos-Grid.svelte';
 
@@ -11,6 +9,7 @@
 	let showPhilosophy;
 	let showWallets;
 	let visitorWithMobile = false;
+	let loadDetails = false;
 
 	onMount(async () => {
 		if (typeof window.ethereum === 'undefined') {
@@ -23,6 +22,9 @@
 		) {
 			visitorWithMobile = true;
 		}
+		setTimeout(() => {
+			loadDetails = true;
+		}, 60 * 60);
 	});
 </script>
 
@@ -43,7 +45,10 @@
 	und Freundschaft in die Welt.
 	<p><br /></p>
 	Wir erkunden Architekturen der Freiheit mit
-	<a href="https://de.wikipedia.org/wiki/Geocaching" target="_blank">Geo Caching</a>.
+	<a
+		href="https://www.geckoterminal.com/polygon_pos/pools/0x0296f6ea1f02083b99ae59200d00f5257473f17c"
+		target="_blank">Geo Cash</a
+	>.
 
 	<p><br /><br /><br /></p>
 	<div class="emma">
@@ -53,11 +58,17 @@
 	<p><br /></p>
 	<h4>Architekturen der Freiheit</h4>
 
-	Wir glauben an <a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">Gewaltenteilung</a>.
+	Wir glauben an
+	<a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank"> Gewaltenteilung</a>.
 	<p><br /></p>
-	Wir glauben an <a href="https://rumble.com/v4y53lt-chroniken-der-plandemie-legen-eine-aufarbeitung-der-verbrechen-nahe..html" target="_blank">das Volk</a> als Souverän.
+	Wir glauben an
+	<a
+		href="https://rumble.com/v4y53lt-chroniken-der-plandemie-legen-eine-aufarbeitung-der-verbrechen-nahe..html"
+		target="_blank">das Volk</a
+	>
+	als Souverän.
 	<p><br /></p>
-	Unsere experimentellen Währungen sind 
+	Unsere experimentellen Währungen sind
 	<a
 		href="https://www.geckoterminal.com/polygon_pos/pools/0xf1d949b014da81a14986c9c3900151a54c0393b9"
 		target="_blank">Freiheit</a
@@ -213,7 +224,7 @@
 			>: 0xb841A4f979F9510760ecf60512e038656E68f459
 			<p><br /><br /><br /></p>
 
-			<h6>Support</h6>
+			<h6>Hilfe</h6>
 			<p><br /></p>
 			Falls Du ein Neueinsteiger bist und gerade erst mal nicht weißt was hier los ist, atme tief durch.
 			<p><br /></p>
@@ -238,13 +249,26 @@
 			<p><br /><br /></p>
 			<Philosophy></Philosophy>
 		{/if}
-		<p><br /><br /></p>
+		<p><br /><br /><br /></p>
 		Ich kaufe und verkaufe
 		<a
 			href="https://polygonscan.com/address/0xb841A4f979F9510760ecf60512e038656E68f459"
 			target="_blank">Geo Cash</a
 		>, Silber und Gold.
 		<a href="https://github.com/moniquebaumann" target="_blank"><i>Monique Baumann</i></a>
+
+		<p><br /><br /><br /></p>
+		{#if loadDetails}
+			<h4>Lockeres Fernsehprogramm für die ganze Familie</h4>
+			<p><br /></p>
+			<div class="emma">
+				<object title="Die DAO" data="https://rumble.com/embed/v53ssul/?pub=3blg3u"> </object>
+			</div>
+			<p><br /></p>
+			<div class="emma">
+				<object title="Bitcoin" data="https://rumble.com/embed/v53ssml/?pub=3blg3u"> </object>
+			</div>
+		{/if}
 
 		<p><br /><br /></p>
 		{#if !visitorHasBrowserWallet && !visitorWithMobile}
